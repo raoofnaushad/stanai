@@ -1,0 +1,31 @@
+
+.google-btn-container {
+    margin: 20px 0; /* Adds space above and below the Google button */
+  }
+  
+.google-btn {
+/* Style your Google button here */
+padding: 10px 20px;
+border-radius: 5px;
+border: 1px solid #20DC49;
+background: #FFF;
+color: black;
+font-size: 16px;
+cursor: pointer;
+/* ... other styles ... */
+}
+
+header .cta .message {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29.163px; /* 162.016% */
+}
+
+.logo {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintains aspect ratio */
+  margin-bottom: 20px; /* Space below the logo */
+  /* Add any additional styling as needed */
+}

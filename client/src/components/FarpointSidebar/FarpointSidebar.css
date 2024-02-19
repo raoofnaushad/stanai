@@ -1,0 +1,96 @@
+/* Side bar Styles */
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: #334155; /* A more modern, neutral dark color */
+    width: 200px;
+    position: fixed;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+  } 
+  
+  .sidebar h1 {
+    font-size: 22px; /* Slightly larger font size */
+    color: #ffffff; /* Bright color for the logo text */
+    text-align: center;
+    margin-bottom: 20px; /* Less space below the logo */
+    font-weight: 600; /* Heavier font weight */
+  }
+  
+  .sidebar-top {
+    margin-top: 10px; /* Reduced top margin */
+  }
+  
+  .sidebar button {
+    background-color: transparent; /* Removing button background */
+    color: #ffffff; /* White color text for better contrast */
+    padding: 12px 20px; /* More padding for a larger click area */
+    border: none; /* Remove borders */
+    border-radius: 4px; /* Rounded corners */
+    margin: 10px 0; /* Consistent margin around buttons */
+    width: calc(100% - 40px); /* Full width taking into account padding */
+    text-align: left; /* Align text to the left */
+    font-size: 16px; /* Larger font size for readability */
+    transition: all 0.2s; /* Smooth transition for hover effects */
+  }
+  
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: #334155; /* A more modern, neutral dark color */
+    width: 200px;
+    position: fixed;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+  }
+  
+  .sidebar h1 {
+    font-size: 22px; /* Slightly larger font size */
+    color: #ffffff; /* Bright color for the logo text */
+    text-align: center;
+    margin-bottom: 20px; /* Less space below the logo */
+    font-weight: 600; /* Heavier font weight */
+  }
+  
+  .sidebar-top {
+    margin-top: 10px; /* Reduced top margin */
+  }
+  
+  .sidebar button {
+    background-color: transparent; /* Removing button background */
+    color: #ffffff; /* White color text for better contrast */
+    padding: 12px 20px; /* More padding for a larger click area */
+    border: none; /* Remove borders */
+    border-radius: 4px; /* Rounded corners */
+    margin: 10px 0; /* Consistent margin around buttons */
+    width: calc(100% - 40px); /* Full width taking into account padding */
+    text-align: left; /* Align text to the left */
+    font-size: 16px; /* Larger font size for readability */
+    transition: all 0.2s; /* Smooth transition for hover effects */
+  }
+  
+  .sidebar button:hover {
+    background-color: #475569; /* Slightly lighter background on hover */
+    transform: translateX(5px); /* Move button to the right on hover */
+  }
+  
+  .sidebar-bottom {
+    margin-top: auto; /* Auto margin for bottom alignment */
+  }
+  
+  .sidebar-bottom button:last-child {
+    margin-bottom: 0; /* Remove bottom margin for the last button */
+  }
+
+  .user-name {
+    font-size: 12px; /* Slightly larger font size */
+    color: #ffffff; /* Bright color for the logo text */
+    text-align: center;
+    margin-bottom: 20px; /* Less space below the logo */
+
+  }

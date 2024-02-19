@@ -1,0 +1,47 @@
+header {
+    min-height: 100vh;
+}
+
+header .wrapper {
+    position: relative;
+    height: 100vh;
+}
+
+
+header .cta {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    text-align: center;
+    position: relative;
+
+}
+
+header .cta .welcome {
+    color: #2E3339;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+header .cta .message {
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.163px; /* 162.016% */
+}
+
+
+
+header .cta .cta-btn {
+    border-radius: 4px;
+    background: #0FA47F;
+    color: var(--White, #FFF);
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 10px; /* change as needed */
+}

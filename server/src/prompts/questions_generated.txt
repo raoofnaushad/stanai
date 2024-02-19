@@ -1,0 +1,1335 @@
+{
+  "1": "How does your team currently collect and integrate customer feedback into the refinement of marketing strategies?",
+  "2": "What specific sentiment analysis tools and techniques does your team employ to understand customer feedback?",
+  "3": "Can you provide an example of how your team utilizes advanced analytics tools to identify patterns in customer feedback?",
+  "4": "How does your team prioritize and contextualize customer feedback based on demographics and relevance?",
+  "5": "In what ways does your team employ A/B testing to validate the iterative refinement of marketing strategies?"
+}
+
+{
+  "1": "How does the marketing team currently collect and integrate customer feedback into refining marketing strategies?",
+  "2": "What advanced analytics tools does the marketing team use to analyze and identify patterns in the aggregated customer feedback data?",
+  "3": "Could you provide an example of how the marketing team prioritizes and contextualizes customer feedback based on demographics and relevance?",
+  "4": "Can you elaborate on the A/B testing process the marketing team employs for the validation of refined marketing strategies?",
+  "5": "How does the marketing team ensure effective communication with customers regarding implemented changes and demonstrate gratitude for their input?"
+}
+
+{
+  "1": "How does your team systematically collect and integrate customer feedback into the refinement of marketing strategies?",
+  "2": "Can you elaborate on the advanced analytics tools and methodologies used for analyzing the aggregated customer feedback data?",
+  "3": "How does your team prioritize and contextualize customer feedback based on demographics and relevance, and how does this foster cross-functional collaboration?",
+  "4": "What A/B testing methodologies and tools does your team employ to validate the refined marketing strategies?",
+  "5": "Can you explain how your team effectively communicates with customers regarding implemented changes and demonstrates gratitude for their input?"
+}
+
+{
+  "1": "How does the marketing department systematically collect and integrate customer feedback into refining marketing strategies?",
+  "2": "Can you elaborate on the process of employing sentiment analysis for understanding diverse feedback sources?",
+  "3": "What advanced analytics tools are used to analyze the aggregated customer feedback and identify patterns?",
+  "4": "How does the marketing department prioritize and contextualize customer feedback based on demographics and relevance?",
+  "5": "Can you provide details on how A/B testing is employed to validate the iterative refinement of marketing strategies?"
+}
+
+{
+  "1": "How does the marketing team systematically collect diverse feedback sources from customers?",
+  "2": "Can you provide an example of how sentiment analysis has been used to gain nuanced understanding from the collected feedback?",
+  "3": "What advanced analytics tools are utilized to analyze and identify patterns in the aggregated feedback data?",
+  "4": "How does the marketing team prioritize and contextualize feedback based on demographics and relevance?",
+  "5": "Can you describe a specific instance where A/B testing was employed to validate the iterative refinement of a marketing strategy?"
+}
+
+{
+  "1": "How does the marketing team currently collect and integrate customer feedback into refining marketing strategies?",
+  "2": "What advanced analytics tools are currently employed to analyze the aggregated customer feedback?",
+  "3": "Can you provide insights into the process of segmenting and prioritizing customer feedback based on demographics and relevance?",
+  "4": "What methods are currently used for A/B testing to validate the refinement of marketing strategies?",
+  "5": "How does the marketing team currently communicate with customers regarding implemented changes based on their feedback?"
+}
+
+{
+    "1": "How does the marketing department currently collect and integrate customer feedback into refining marketing strategies?",
+    "2": "What advanced analytics tools are currently being used to analyze customer feedback and identify patterns?",
+    "3": "Can you provide an example of how A/B testing has been employed to validate marketing strategies?",
+    "4": "How does the marketing team currently communicate with customers regarding implemented changes based on customer feedback?",
+    "5": "What measures are in place to ensure ongoing responsiveness to customer feedback and industry trends, creating a feedback loop for marketing strategy alignment?"
+}
+
+{
+  "1": "How does the company systematically collect diverse feedback sources for refining marketing strategies?",
+  "2": "Can you provide insight into how sentiment analysis is employed to understand customer feedback nuances?",
+  "3": "What advanced analytics tools are used to analyze and identify patterns in the aggregated feedback data?",
+  "4": "How does the marketing team prioritize and contextualize feedback based on demographics and relevance?",
+  "5": "Can you elaborate on the process of effective communication with customers regarding implemented changes and demonstrating gratitude for their input?"
+}
+
+{
+  "1": "How does the marketing department systematically collect and integrate customer feedback into refining marketing strategies?",
+  "2": "What advanced analytics tools are currently being used to analyze the aggregated customer feedback data and identify patterns?",
+  "3": "Can you provide insight into the process of prioritizing and contextualizing customer feedback based on demographics and relevance?",
+  "4": "How does the marketing department employ A/B testing for validation in the iterative refinement of marketing strategies?",
+  "5": "What measures are in place to ensure effective communication with customers regarding implemented changes and to demonstrate gratitude for their input?"
+}
+
+{
+  "1": "How do you currently collect and integrate customer feedback into the refinement of marketing strategies?",
+  "2": "Could you provide more details on the tools and techniques used for sentiment analysis and advanced analytics in the process of analyzing customer feedback?",
+  "3": "How is feedback segmented and prioritized based on demographics and relevance, and how does it facilitate cross-functional collaboration between marketing and other departments?",
+  "4": "Can you explain the process of iterative refinement of marketing strategies, including how A/B testing is employed for validation?",
+  "5": "What methods do you use to communicate and demonstrate gratitude to customers for their input, especially when implementing changes based on their feedback?"
+}
+
+{
+  "1": "How does your team currently collect and process diverse customer feedback sources for refining marketing strategies?",
+  "2": "Can you elaborate on the tools and techniques used to analyze customer feedback and identify patterns for segmentation and prioritization?",
+  "3": "What are the current methods for validating marketing strategy refinements, particularly in terms of A/B testing? Are there specific metrics or KPIs that drive this validation process?",
+  "4": "How does your team ensure effective communication with customers regarding changes made based on their feedback? Can you provide examples of successful customer engagement in this context?",
+  "5": "In what ways does your team continuously monitor and incorporate customer feedback into the iterative refinement of marketing strategies, especially in response to evolving customer expectations and industry trends?"
+}
+
+{
+  "1": "How does your department systematically collect diverse feedback sources for refining marketing strategies?",
+  "2": "Could you elaborate on the process of employing sentiment analysis for understanding customer feedback?",
+  "3": "What advanced analytics tools are utilized to identify patterns in the aggregated and analyzed feedback data?",
+  "4": "How is feedback contextualized based on demographics and relevance, and how does it foster cross-functional collaboration between marketing and other departments?",
+  "5": "Can you explain the approach to A/B testing for validating the iterative refinement of marketing strategies?"
+}
+
+{
+  "1": "How does the company collect diverse feedback sources for marketing strategies?",
+  "2": "Can you elaborate on the process of employing sentiment analysis for understanding customer feedback?",
+  "3": "What advanced analytics tools are used to identify patterns in the aggregated feedback data?",
+  "4": "How does the marketing team prioritize and contextualize feedback based on demographics and relevance?",
+  "5": "Could you provide insights into the A/B testing process for validating marketing strategy refinements?"
+}
+
+{
+	"1": "How do you currently collect and integrate customer feedback into your marketing strategies?",
+	"2": "What specific tools and techniques do you use for sentiment analysis and pattern identification in customer feedback?",
+	"3": "Can you provide an example of how you have employed A/B testing to validate marketing strategy refinements?",
+	"4": "How do you foster cross-functional collaboration between the marketing department and other relevant departments based on feedback segmentation and prioritization?",
+	"5": "In what ways do you ensure effective communication with customers regarding implemented changes and demonstrate gratitude for their input?"
+}
+
+{
+  "1": "How does the marketing team systematically collect diverse feedback sources for refining marketing strategies?",
+  "2": "What advanced analytics tools are used to identify patterns in the aggregated and analyzed feedback data?",
+  "3": "Could you elaborate on how the marketing team prioritizes and contextualizes feedback based on demographics and relevance?",
+  "4": "In what ways does the marketing team foster cross-functional collaboration between marketing and other departments for feedback utilization?",
+  "5": "Can you provide an example of a successful A/B testing process employed for validating iterative refinement of marketing strategies?"
+}
+
+{
+  "1": "How does the marketing team currently collect and integrate customer feedback into refining marketing strategies?",
+  "2": "Can you provide an example of a recent instance where customer feedback was successfully integrated into a marketing strategy refinement?",
+  "3": "What advanced analytics tools are currently being used to identify patterns in the aggregated and analyzed feedback data?",
+  "4": "How does the marketing team prioritize and contextualize feedback based on demographics and relevance?",
+  "5": "What specific methods or channels are utilized for effective communication with customers regarding implemented changes based on their feedback?"
+}
+
+{
+  "1": "How do you currently ensure data integrity within your production and engineering processes?"
+}
+
+{
+  "1": "Can you provide insights into the data integrity challenges your company has faced in the past?",
+  "2": "How does your company currently ensure data accuracy and consistency in the production and engineering workflows?",
+  "3": "What are the key data sources and systems that are critical for maintaining data integrity in your production and engineering processes?",
+  "4": "How do you envision the role of AI in addressing and mitigating data integrity issues within your production and engineering operations?",
+  "5": "Are there any specific areas within the production and engineering workflows where data quality and accuracy are particularly crucial, and have posed significant challenges?"
+}
+
+{
+  "1": "Can you provide insights into the data integrity challenges specific to the production and engineering processes within MAKR's operations?",
+  "2": "How does MAKR ensure the accuracy and consistency of data across different production workflows and engineering processes?",
+  "3": "What tools or technologies are currently being utilized to maintain data integrity in the production and engineering departments at MAKR?",
+  "4": "Could you elaborate on any past instances where data integrity issues have impacted production or engineering processes at MAKR?",
+  "5": "In your role, how do you envision leveraging data integrity to drive innovation and optimize operational excellence in production and engineering at MAKR?"
+}
+
+{
+  "1": "Can you describe the current data collection and storage processes at MAKR in relation to the production and engineering workflows?",
+  "2": "What are the key challenges or pain points related to data integrity and accuracy within the production and engineering workflows at MAKR?",
+  "3": "How is data currently utilized to optimize production processes and drive innovation at MAKR?",
+  "4": "Can you provide an overview of the existing data validation and quality control measures in place for the production and engineering data at MAKR?",
+  "5": "What are the specific types of data (e.g., production metrics, engineering specifications) that are most critical for ensuring seamless integration of advanced engineering processes and efficient production workflows at MAKR?"
+}
+
+{
+  "1": "Can you provide an overview of your company's current data management and data integrity processes?",
+  "2": "How is the data collected and stored within your production and engineering workflows?",
+  "3": "What are the key challenges or pain points you experience in maintaining data integrity across your production and engineering processes?",
+  "4": "Can you describe the existing quality control measures for data within your production and engineering operations?",
+  "5": "How do you envision AI and machine learning contributing to enhancing data integrity within your production and engineering workflows?"
+}
+
+{
+  "1": "How do you ensure data integrity in the production and engineering processes?",
+  "2": "What kind of conversations have you had with John and Christine regarding data integrity and utilization?",
+  "3": "Can you provide an example of a specific task and the time spent on it to illustrate the need for improved efficiency?",
+  "4": "What are the biggest bottlenecks from a systems perspective that you have identified in the current workflows?",
+  "5": "Could you share a specific instance where your experience in production and engineering significantly impacted the operational efficiency of the company?"
+}
+
+{
+  "1": "What success looks like for you a year from now? What does it feel like if everything goes right?",
+  "2": "What are the biggest problems/troubles you are facing?",
+  "3": "Are there any new revenue targets or existential risks for your company?",
+  "4": "What have you tried to address the troubles? What hasn't worked?",
+  "5": "Are there any other people that we need to consider when we ultimately move into the solution prototyping design kind of phase?"
+}
+
+{
+  "1": "What are the core challenges and bottlenecks in the production and engineering workflows?",
+  "2": "How do you currently measure and track the time spent on specific tasks in the production and engineering workflows?",
+  "3": "Can you provide an example of a recent project where data integrity and efficient processing were critical?",
+  "4": "What are the key objectives or targets for improving data integrity and processing within the production and engineering operations?",
+  "5": "How do you envision the integration of advanced engineering processes and AI technology impacting the current workflows and operations?"
+}
+
+{
+  "1": "What are the current constraints or challenges in maintaining data integrity in the manufacturing and production processes?",
+  "2": "Can you provide insights into any attempts made to address data integrity issues in the past, and what has and hasn't worked?",
+  "3": "How do you currently measure the impact of data integrity issues on financial performance and operational efficiency?",
+  "4": "Are there any specific operational bottlenecks or inefficiencies that have been identified in the manufacturing and production workflows?",
+  "5": "Can you elaborate on the impact of data integrity challenges on meeting budget and revenue targets, and how it affects the overall financial performance?"
+}
+
+{
+  "1": "What are your current constraints? Why is it that we're having this conversation today?",
+  "2": "What have you tried that hasn't worked?",
+  "3": "Are there any symptomatic things that you're feeling, such as any targets that have been missed or any new revenue targets missed?",
+  "4": "Is this a one-off or has missing the budget been trending?",
+  "5": "In an environment previously, was there a lot more rigor and discipline around the budget?"
+}
+
+{
+  "1": "What are the main data integrity challenges you currently face in your production and engineering processes?",
+  "2": "How are you currently utilizing data in your production and engineering processes, and what are the pain points associated with data processing and analysis?",
+  "3": "Could you share any insights from your conversations with John and Christine regarding data integrity and operational efficiency?",
+  "4": "What are the core responsibilities and key workflows that you oversee in your role as VP of Production and Engineering?",
+  "5": "Can you elaborate on the specific bottlenecks or inefficiencies you've identified within your systems, particularly in terms of time studies and process understanding?"
+}
+
+{
+  "1": "What are the current constraints you are facing in your production and engineering processes?",
+  "2": "What have you tried in terms of improving your workflows and processes in the past? What worked and what didn't?",
+  "3": "Are there any additional factors or stakeholders that need to be considered as part of the solution?",
+  "4": "Have there been any missed revenue targets or existential risks affecting your business?",
+  "5": "What does success look like for you in the next year in terms of your production and engineering operations?"
+}
+
+{
+  "1": "What success looks like for you a year from now, and what does that new landscape look like for you? What does that feel like?",
+  "2": "What are the current constraints? Why is it that having this conversation today? What have you tried and what hasn't worked?",
+  "3": "Are there any competencies that have been missed that are part of the revenue target list? Are there any things that are receiving existential risk?",
+  "4": "Is this a one-off or has missing the budget by 20 percent been trending? For how long has this been happening?",
+  "5": "Are there any other feelings that you can attach to the frustration and the challenges in budgeting and forecasting?"
+}
+
+{
+  "1": "What are the key workflows that you oversee in production and engineering?"
+  "2": "How do you currently measure data integrity and utilization in your operations?"
+  "3": "Can you provide examples of the specific tasks and processes you aim to automate or optimize?"
+  "4": "What are the biggest bottlenecks you encounter from a systems perspective in your production and engineering workflows?"
+  "5": "How do you envision AI technology playing a role in streamlining your production and engineering processes?"
+}
+
+{
+  "1": "What success looks like for you, so we're having a conversation a year from now. And everything's gone right. What does that new landscape real point for you? What's does that feel like?",
+  "2": "What have you tried what hasn't worked?",
+  "3": "Are there any other people that we need to consider when we ultimately move into the solution?",
+  "4": "Your troubles are just like, what are some symptomatic things that you're feeling. Are there any target... That the nest, are there any revenue targets nest, Are there any things where you're student existential risk from either incumbents that are taking away, you know, market share, what what's the biggest problems troubles that you're seen today.",
+  "5": "What are your current constraints? Why is it that having this conversation today?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling in terms of troubles within the company's operations?",
+  "2": "Are there any revenue targets that the company is not meeting or any areas where the company is facing existential risk from incumbents?",
+  "3": "How has the company been performing relative to its budget in the past few years?",
+  "4": "Is the budgeting process at MAKR data-driven, and if not, how is it currently being done?",
+  "5": "Can you share more about the challenges in forecasting accuracy and how it is affecting the budgeting process?"
+}
+
+{
+  "1": "What are the key pain points or challenges you currently face in the production and engineering workflows?",
+  "2": "How do you measure and track data integrity within your current production and engineering processes?",
+  "3": "Can you provide examples of specific tasks or processes that you believe could benefit from automation or AI integration?",
+  "4": "What level of involvement do employees currently have in the decision-making process for production and engineering workflows?",
+  "5": "What are the primary goals or objectives you hope to achieve through the integration of advanced engineering processes and efficient production workflows?"
+}
+
+{
+  "1": "Can you provide an overview of the core responsibilities you have in your role as VP of Production and Engineering?",
+  "2": "What are the biggest bottlenecks from the systems perspective in the production and engineering workflows?",
+  "3": "Could you share more about the specific workflows and tasks that you are responsible for overseeing on a day-to-day basis?",
+  "4": "Can you elaborate on the core problem statement or challenges that you are currently facing in the production and engineering workflows?",
+  "5": "What are the key areas of focus in terms of improving operational efficiency and streamlining production workflows?"
+}
+
+{
+  "1": "What are the core problems in the payment process that you are looking to address?",
+  "2": "Can you elaborate on the biggest bottlenecks from a systems perspective in the production and engineering workflows?",
+  "3": "How do you currently track the utilization and processing of orders once they are released?",
+  "4": "What are the core responsibilities and objectives in your role as VP of Production and Engineering?",
+  "5": "Can you provide insights into the high-level objectives for the integration of advanced engineering processes and production workflows?"
+}
+
+{
+  "1": "What success looks like for you, so we're having a conversation a year from now?",
+  "2": "What are some symptomatic things people, especially on the 1 side of the business, are facing?",
+  "3": "What have you tried, what hasn't worked?",
+  "4": "What are the biggest bottlenecks from the systems perspective?",
+  "5": "What's the biggest problem making it impossible for you to reach a certain level today?"
+}
+
+{
+  "1": "What are the current data integrity challenges you are experiencing in your production and engineering processes?",
+  "2": "How are you currently utilizing data to optimize your production and engineering processes?",
+  "3": "What specific kind of data processing are you currently undertaking and what are the key challenges you are facing with it?",
+  "4": "What are the key bottlenecks or inefficiencies you have identified from a systems perspective in your current workflows?",
+  "5": "Can you provide examples of specific tasks on which employees spend a significant amount of time, and the impact of these on your production and engineering processes?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling in terms of troubles or challenges?",
+  "2": "Are there any revenue targets that have not been met?",
+  "3": "What is the biggest problem or trouble that you are seeing today?",
+  "4": "What is the impact of missing the budget by 20 percent this year?",
+  "5": "How do you ensure you have the right people and processes in place on the sales side of the business?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling? Are there any revenue targets met or any things where you're seeing an existential risk from either incumbents that are taking away market share? What are the biggest problems/troubles that you've seen today?",
+  "2": "Is this a one-off or has that been trending? For how long?",
+  "3": "Is the budget ad hoc and not data-driven? How has the budgeting process been historically?",
+  "4": "Are there any other feelings that you can elaborate on in relation to the budgeting process?",
+  "5": "Are there any other efforts to validate the budgeting process with data and analysis? If not, what are the reasons for the lack of data-driven budgeting?"
+}
+
+{
+  "1": "What are the biggest problems/troubles that you are seeing today?",
+  "2": "Are there any revenue targets met?",
+  "3": "Is this a one-off or has that been trending?",
+  "4": "When you make a budget, is it ad hoc or data-driven?",
+  "5": "Are there any other feelings that you can attach to it? Is there frustration or any other emotions involved?"
+}
+
+{
+  "0": "What success looks like for you in terms of data integrity a year from now?",
+  "1": "What have you tried in terms of addressing the forecast accuracy and revenue targets? What hasn't worked?",
+  "2": "Are there any other people that we need to consider when ultimately moving into the solution phase?",
+  "3": "What are some symptomatic troubles that you're feeling in terms of revenue and market presence?",
+  "4": "Has missing the budget by about 20 percent been a one-off issue or has it been trending? For how long?"
+}
+
+{
+  "1": "What are the target revenue goals for the company and how have they been met?",
+  "2": "How long has the company been missing budget targets, and what percentage are they typically missing by?",
+  "3": "How is the budget currently established, and is it based on data-driven forecasts?",
+  "4": "What are the challenges in the sales side of the business, particularly in terms of people and processes?",
+  "5": "What strategic initiatives are being considered for the next year to address the current challenges?"
+}
+
+{
+  "1": "What are the biggest problems and troubles that you are currently facing?",
+  "2": "How long has the company been missing its budget, and by what percentage?",
+  "3": "How does the lack of accurate forecasting impact the operations and financial side of the business?",
+  "4": "What has been the trend in revenue shortfall over the past few years, and are there any specific reasons for the shortfall?",
+  "5": "Is the budgeting process currently data-driven, and are there any plans for strategic initiatives to address these challenges in the future?"
+}
+
+{
+  "1": "What are the current constraints and why is it important to have this conversation today?",
+  "2": "What have you tried in the past to address the issues and what hasn't worked?",
+  "3": "Are there any other people that we need to consider when moving into the solution phase?",
+  "4": "What are some symptomatic things that you're feeling in terms of troubles and what are the biggest problems you're seeing today?",
+  "5": "Has missing the budget by 20% been a one-off or has it been trending, and if so, for how long?"
+}
+
+{
+  "1": "What are the biggest problems/troubles that you are experiencing today, specifically with regards to revenue targets, processes, and data accuracy?",
+  "2": "Has missing the budget by 20 percent been a recurring issue, and for how many years has this been trending?",
+  "3": "How is the budget currently determined, and is it based on data-driven forecasts or more ad hoc estimates?",
+  "4": "What feelings or frustrations arise from the challenges in accurately forecasting and budgeting for the upcoming year?",
+  "5": "Have there been any strategic initiatives or efforts to address these challenges, especially in terms of improving forecasting accuracy and process integration?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling?"
+  "2": "Are there any target... That the nest. Are there any revenue targets met?"
+  "3": "Is this a one-off or has that been trending?"
+  "4": "Are we gonna sell 2000000 dollars next year? Braid. Based on once, braid your budget is based on the 2000000, which is absolutely imagine you come from in an environment previously were in in any other life that had a lot more rigor, let's say, and discipline around. Day yeah. And still"
+  "5": "Has there been some concerted... I heard from About yours 6 is it called S sci? Correct. Strategic initiatives for next year."
+}
+
+{
+  "1": "What are some symptomatic troubles you are feeling in the business?",
+  "2": "Are there any revenue targets that have not been met or any existential risks from incumbents?",
+  "3": "Is the 20% budget miss a one-off or has it been trending? If so, for how long?",
+  "4": "Is the budget ad hoc and not data-driven? How does this affect forecasting for the upcoming year?",
+  "5": "Are there any other frustrations or challenges in forecasting the upcoming year?"
+}
+
+{
+  "1": "What are the core responsibilities of the VP of Production and Engineering?",
+  "2": "What is the biggest problem or troubles faced on the production and engineering side?",
+  "3": "How long has MAKR been missing its budget, and by what percentage approximately?",
+  "4": "What is the process of creating the budget at MAKR and how is it currently done?",
+  "5": "Are there any strategic initiatives planned for next year?"
+}
+
+{
+  "1": "What are some symptomatic troubles that you are feeling in the company?",
+  "2": "Are there any revenue targets that you have missed or any existential risks from incumbents taking away market share?",
+  "3": "Has missing the budget by 20 percent been a recurring trend or a one-time occurrence? If recurring, for how long?",
+  "4": "Is the budgeting process data-driven or more ad hoc? Are there any frustrations or challenges with the current budgeting process?",
+  "5": "Can you discuss any strategic initiatives for next year and how they tie into addressing the current challenges?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling in terms of troubles and challenges in your current workflows?",
+  "2": "Are there any revenue targets you are not meeting, and what are the reasons behind this underperformance?",
+  "3": "How long have you been experiencing this underperformance in meeting the budget, and has it been consistent over the years?",
+  "4": "What has been the approach to formulating budgets historically? Has it been data-driven or more ad hoc?",
+  "5": "Are there any other feelings or challenges that have arisen from the difficulties in forecasting accurately?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling?",
+  "2": "Are there any revenue targets met or any things where you're seeing an existential risk from either incumbents that are taking away market share?",
+  "3": "Is this a one-off or has that been trending?",
+  "4": "Is it impossible? You're in a position that's not even like a rock in a hard place. You're just in an impossible position to forecast out the New Year. If the idea that you're working currently with isn't accurate.",
+  "5": "Has there been some concerted strategic initiatives for next year?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling, are there any revenue targets met, are there any things where you're seeing an existential risk from either incumbents that are taking away, you know, market share, what what's the biggest problems troubles that you seen today?",
+  "2": "Is this a 1 off or has that been trending? For how long?",
+  "3": "Just I wanna validate validate some the things that we heard, which is when we maker comes up with her budget. It's a little bit ad hoc. It's not data driven. Okay.",
+  "4": "Still, imagine there's frustration, but are there any other feelings that you can entice to it is it is impossible. You're you're in an 10 position It's not even like a rock in a hard place. You're just in an impossible position to forecast out the New Year.",
+  "5": "Has there been some concerted... I heard from About yours 6 is it called S sci? Correct. Strategic initiatives for next year."
+}
+
+{
+  "0": "What are the current constraints? Why are we having this conversation today?",
+  "1": "What have you tried, what hasn't worked?",
+  "2": "Are there any revenue targets met or are there any things where you're seeing an existential risk from either incumbents that are taking away market share?",
+  "3": "What is the history of missing budget targets and how long has it been trending?",
+  "4": "Are there any other feelings or frustrations around the budgeting process?"
+}
+
+{
+  "1": "What is the current status of getting 'retrieve retrieval augmented generation' up and running with a Google Drive interface?",
+  "2": "Can you provide an update on the progress of building a connector using the Google API to connect into Drive, pull all the documents, and store the embedding in the embedding DB?",
+  "3": "What is the timeline for completing the scraping and vectoring of websites, and how will the data be utilized for interviews and other purposes?",
+  "4": "Will there be a system in place to edit the scraped information for each company, and what are the objectives for this capability?",
+  "5": "How will the type of interview affect the outputs, and how will the parameters set at the outset impact the engagement and the recommended questions?"
+}
+
+{
+  "1": "How is the progress with getting the retrieve retrieval augmented generation system up and running with the Google's Drive interface?",
+  "2": "Can you provide an update on the status of building a connector using the Google API to connect into drive, pull all the documents, chunk them, get their embedding, store the embedding in an embedding Db, and use that as a database for client folders' documents?",
+  "3": "What is the status on the development of a scraper to go to the website, click on all the links, download content, and store it in a vector Db for retrieval and lookup?",
+  "4": "Will there be a system in place to edit client information, such as the client website and other details, and how will this editing process work?",
+  "5": "How will the type of interview affect the outputs of the system and the quality of the notes generated, and what parameters will be considered for tuning the interaction and engagement?"
+}
+
+{
+  "1": "How did you come up with the time interval for the interview prompts and why 2 minutes?",
+  "2": "Is there a cost constraint for the time interval?",
+  "3": "Is there a trial and error process to determine the impact of different time intervals on the quality of insights?",
+  "4": "Are the prompts meant to generate notes or insights?",
+  "5": "How are the insights processed and utilized in the system?"
+}
+
+{
+  "1": "How does the lack of data integrity impact your team's workflow and decision-making processes?",
+  "2": "Can you provide examples of specific instances where the lack of data integrity has caused problems for your team?",
+  "3": "In what ways have you attempted to address the challenges related to inaccurate forecasting and systems integration in the past?",
+  "4": "Can you elaborate on the struggles your team faces in obtaining external market research or establishing market presence?",
+  "5": "How has the historical trend of missing the budget by 20 percent impacted the business's operations and strategic planning over the past few years?"
+}
+
+{
+  "1": "How do you currently ensure data integrity within your workflows and processes?",
+  "2": "Can you elaborate on the challenges you face in forecasting accuracy and communication within your team?",
+  "3": "What specific cost factors do you feel are not receiving enough focus within the company?",
+  "4": "How do you envision the integration of your core systems to improve accuracy and efficiency?",
+  "5": "What strategies have you employed or considered for improving market research and your external market presence?"
+}
+
+{
+  "1": "How does the variability and accuracy (or inaccuracy) in forecasting impact your team's work?",
+  "2": "Can you elaborate on the challenges you face in communication and process flow related to invoicing?",
+  "3": "What specific systems integration needs do you have in mind to improve your core systems?",
+  "4": "In what ways do you currently struggle with accessing external market research or establishing market presence?",
+  "5": "Could you share more about the challenges and potential improvements related to database management and cleanup?"
+}
+
+{
+  "1": "How does the current email structure impact data integrity in the production and engineering workflows?",
+  "2": "What are the specific challenges faced in integrating CRM with the existing workflows and how does it impact data integrity?",
+  "3": "Can you describe the process of sales tracking that is currently in place and its influence on data integrity?",
+  "4": "In what ways do the existing folder and file structure issues affect data integrity in production and engineering workflows?",
+  "5": "How does the lack of tools for understanding the brand impact the integrity of data and content creation in the production and engineering workflows?"
+}
+
+{
+  "1": "What are the specific challenges or bottlenecks you have encountered in the production and engineering processes?",
+  "2": "How do you currently track and measure the time spent on specific tasks within your production workflows?",
+  "3": "Can you elaborate on the current data integrity and utilization processes that you are using?",
+  "4": "What are the primary responsibilities and objectives of the install team within the production and engineering operations?",
+  "5": "Could you provide insight into the current state of integration between advanced engineering processes and production workflows, and any existing technology limitations?"
+}
+
+{
+  "1": "What success looks like for you, so we're having a conversation a year from now?",
+  "2": "What's the biggest problems or troubles that you're seeing today?",
+  "3": "What have you tried, what hasn't worked?",
+  "4": "Where are the bottlenecks from that systems perspective?",
+  "5": "Are there any existential risks or revenue targets missed that you're concerned about?"
+}
+
+{
+  "1": "What success looks like for you, so we're having a conversation a year from now?",
+  "2": "What's the biggest problems making it impossible for Dennis to build to a certain level today?",
+  "3": "What have you tried, what hasn't worked?",
+  "4": "Are there any other symptoms or troubles that you're seeing today?",
+  "5": "Sales managers, making sure you have the right people now"
+}
+
+{
+  "1": "What specific challenges do you face in terms of data integrity and data cleanup on the CRM?",
+  "2": "How do you currently handle market research and market presence? Do you feel it is underutilized, and if so, why?",
+  "3": "Can you elaborate on the issues you face with outdated email structure, lack of connection with CRM, and no sales tracking?",
+  "4": "What specific limitations do you encounter in content creation and how do these limitations impact your brand understanding?",
+  "5": "How do you currently track and attribute revenue to the different lead sources, and what challenges do you face in this process?"
+}
+
+{
+  "1": "Can you describe the current email structure and its limitations in detail?",
+  "2": "How does the lack of connection with CRM impact your workflow and productivity?",
+  "3": "What specific challenges do you face in content creation and how do they impact your marketing efforts?",
+  "4": "Could you elaborate on the issues with folder and file structure and how it affects your day-to-day operations?",
+  "5": "What tools or systems do you currently use for sales tracking, and what are the limitations of these existing tools?"
+}
+
+{
+  "1": "What are the biggest bottlenecks from a systems perspective in your workflows?",
+  "2": "What does success look like for you a year from now? What does that new landscape feel like?",
+  "3": "Why is it that we are having this conversation today? What have you tried that hasn't worked?",
+  "4": "What are the symptomatic things that you're feeling in terms of troubles or challenges in your workflows?",
+  "5": "Are there any existential risks or incumbents taking away market share that you have identified?"
+}
+
+{
+  "1": "What are some bottlenecks or areas of improvement you see in the current sales process?",
+  "2": "As the head of sales, what specific KPIs or objectives have you set for the upcoming year?",
+  "3": "What initiatives have been tried before to address the challenges in sales and marketing?",
+  "4": "Who is the final decision-maker or owner of the challenges within the sales department?",
+  "5": "How do you envision the integration of AI technology in improving the sales velocity and data utilization within your department?"
+}
+
+{
+   "1":"What specific challenges have you encountered in integrating advanced engineering processes into your production workflows?",
+   "2":"How are you currently addressing the lack of connection with CRM and the issues with folder and file structure?",
+   "3":"Can you elaborate on the limitations you've faced in content generation and how it has affected your marketing materials?",
+   "4":"What initiatives have you undertaken to lean on digital leads and what are the challenges you foresee in this transition?",
+   "5":"What strategies have you considered to ensure that MAKR Group becomes the primary source of new business for park works and waterplay?"
+}
+
+{
+  "1": "How do you currently manage your email structure and what specific challenges do you face with it?",
+  "2": "Can you elaborate on the issues you have with connecting to your CRM and how it impacts your operations?",
+  "3": "What are the main difficulties you experience in tracking sales and how does it affect your business?",
+  "4": "Could you provide more details on the problems you encounter with folder and file structure and their impact on your workflows?",
+  "5": "In what ways do you feel your current tools fall short in understanding and representing your brand in content creation?"
+}
+
+{
+  "1": "How is the current email structure set up and what limitations or challenges does it present in terms of communication and data management?",
+  "2": "What specific challenges are you currently facing in content creation and how do these challenges impact your ability to generate leads and drive new business?",
+  "3": "Can you provide examples of how the lack of tools that understand your brand has impacted your marketing and sales efforts?",
+  "4": "What are the key criteria or indicators that you will use to measure the success of the additional supports you plan to implement for catering to new leads?",
+  "5": "How do you envision leveraging digital leads to compensate for the reduction in in-person activities next year, and what specific strategies do you have in mind for this transition?"
+}
+
+{
+  "0": "What are the specific challenges you face in maintaining data integrity within the company's operations?",
+  "1": "How do you currently track and measure the time spent on specific tasks within the production and engineering workflows?",
+  "2": "What are the major bottlenecks and constraints from a systems perspective that you encounter in the production and engineering processes?",
+  "3": "Can you elaborate on the core problem statement regarding data integrity and utilization within the company's operations?",
+  "4": "How do your current systems and processes support the seamless integration of advanced engineering processes and efficient production workflows?"
+}
+
+{
+  "0": "What have you tried that hasn't worked so far in addressing the content creation challenges at MAKR Group?",
+  "1": "Can you elaborate on the specific issues faced with the outdated email structure and how it impacts your workflow?",
+  "2": "What does success look like for MAKR Group from a production and engineering standpoint, a year from now?",
+  "3": "What are the biggest bottlenecks from a systems perspective that you currently face at MAKR Group?",
+  "4": "What additional support or tools do you think would be effective in catering to new digital leads and improving lead generation for park works and waterplay products at MAKR Group?"
+}
+
+{
+  "1": "What success looks like for you, So we're having a conversation a year from now. consider when we ultimately move into the solution",
+  "2": "What have you tried what hasn't worked?",
+  "3": "What are the magic happens I like to sit?",
+  "4": "What's the biggest problems Sales managers, making sure have the right people in there?",
+  "5": "What's does the landscape look like for you, What's does that feel like?"
+}
+
+{
+  "1": "What strategic initiatives are planned for next year (2024) to address the issue of forecast accuracy?",
+  "2": "Can you provide more details about the hybrid system of the Rockefeller abbot and the Msc system that you mentioned?",
+  "3": "How do you currently handle data integrity and cleanup on the CRM side, and what does success look like in this regard?",
+  "4": "What specific challenges have you encountered in maintaining consistency and accountability in data integrity processes?",
+  "5": "Can you elaborate on the complexities involved in the sales process through the dealer network and the challenges faced in maintaining a streamlined approach?"
+}
+
+{
+  "1": "What are the specific challenges faced in the utilization of data integrity?",
+  "2": "How have conversations with John and Christine helped in understanding the core problem statement?",
+  "3": "Can you elaborate on the specific tasks and their time studies to understand the operational bottlenecks?",
+  "4": "Could you highlight the experience and core responsibilities of the VP of Production and Engineering?",
+  "5": "In what ways are you currently identifying and addressing operational bottlenecks in the production and engineering processes?"
+}
+
+{
+  "1": "What are the current constraints that lead to the need for this conversation today?",
+  "2": "What have you tried that hasn't worked in addressing the challenges you are facing?",
+  "3": "What is the biggest problem or trouble that you are experiencing today in terms of revenue and budget?",
+  "4": "What are the specific targets or market share issues that have been missed or are causing existential risk?",
+  "5": "What does success look like for you a year from now? What would the new landscape feel and look like if everything goes right?"
+}
+
+{
+  "1": "What are the biggest troubles or challenges the company is currently facing, particularly in terms of missed revenue targets and sales forecast accuracy?",
+  "2": "Can you provide more details on the issues related to forecast accuracy, systems integration, and market research or market presence?",
+  "3": "How long has the company been consistently missing the budget targets, and can you elaborate on the factors contributing to this consistent underperformance?",
+  "4": "Can you explain more about the budgeting process and the level of data-driven decision-making involved in setting the budget targets?",
+  "5": "Are there any specific feelings or emotions associated with the challenges and the difficulty in forecasting, especially in comparison to previous experiences in a more disciplined environment?"
+}
+
+{
+  "1": "What are the key data integrity challenges you currently face in your production and engineering operations?",
+  "2": "How do you currently track and measure the utilization of resources in your operations, and what tools or systems do you use for this?",
+  "3": "Can you provide specific examples of processes or tasks where you have identified bottlenecks or inefficiencies in your operations?",
+  "4": "What are the core responsibilities and objectives you aim to achieve within the production and engineering team?",
+  "5": "In what ways do you believe advanced engineering processes can be leveraged to optimize operational excellence within your organization?"
+}
+
+{
+  "1": "What are the core problems you are currently facing with data integrity and utilization?",
+  "2": "What does success look like for your team a year from now in terms of data integrity and utilization?",
+  "3": "What constraints are currently holding your team back from achieving optimal data integrity and utilization?",
+  "4": "Have there been any attempts to address these issues in the past? If so, what hasn't worked?",
+  "5": "Are there any other stakeholders or departments whose involvement is crucial in improving data integrity and utilization?"
+}
+
+{
+  "1": "What is the current revenue target for next year and how does it compare to previous years?",
+  "2": "How has the company been performing in terms of meeting their budget targets in the past few years?",
+  "3": "How does the forecast accuracy impact the overall operations and financial processes?",
+  "4": "What specific challenges are faced in terms of systems integration and how does it affect the workflow?",
+  "5": "Can you elaborate on the struggles with market research and market presence and how it impacts the company's objectives?"
+}
+
+{
+  "1": "What are the biggest bottlenecks from a systems perspective and how are they impacting your operations?",
+  "2": "What have you tried in terms of forecasting accuracy and systems integration, and what hasn't worked?",
+  "3": "Can you provide more details on the challenges with market research and your market presence? How is it impacting your business?",
+  "4": "In what ways do you find that lack of forecast accuracy is impacting other departments and workflows within the company?",
+  "5": "How has the trend of missing the budget by 15-20% over the past 5 years affected your business processes and overall strategy?"
+}
+
+{
+  "1": "What are the biggest challenges you face in terms of data integrity and utilization?",
+  "2": "What kind of problems are you experiencing with forecasting accuracy and how is it impacting your operations?",
+  "3": "How have the revenue targets been performing over the past few years? Is the 20% miss a recurring trend?",
+  "4": "What are the constraints in market research or market presence that you currently struggle with?",
+  "5": "Can you provide more details on the issues related to systems integration and the need for core systems to communicate with each other?"
+}
+
+{
+  "1": "How are data integrity and utilization currently being measured and monitored within the production and engineering workflows?",
+  "2": "What specific conversations or insights have been gained from the directors and executive team regarding the challenges related to data integrity and utilization?",
+  "3": "Can you provide examples of tasks or processes identified as potential bottlenecks in the current system, and the estimated time spent on these tasks?",
+  "4": "Could you share more about the experience and core responsibilities of the VP of Finance and Administration in relation to addressing the identified challenges?",
+  "5": "What tools or systems are currently used to track and manage the production and engineering workflows, and how are they integrated with the existing processes?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling?",
+  "2": "Are there any revenue targets or any things where you're seeming an existential risk from other companies that are taking away market share?",
+  "3": "What's the biggest problems?",
+  "4": "For the purposes of what we're doing here, what does success look like for you? So we're having a conversation a year from now, and everything's gone right. What does that new landscape look like for you? What does that feel like?",
+  "5": "Why is it that we're having this conversation today? What have you tried that hasn't worked?"
+}
+
+{
+  "1": "What success looks like for you, So we're having a conversation a year from now. And everything's gone right, What does that new landscape look like for you? What does that feel like?",
+  "2": "What have you tried what hasn't worked?",
+  "3": "The Cr your current constraints. Why is it that having this conversation today?",
+  "4": "Are there any other people that we need to consider, we ultimately move into the solution?",
+  "5": "Your troubles are just, like, what are some symptomatic things that you're feeling, are there any Turning the nest, are there any revenue targets nest are there any things where you're seeming an existential risk from either in companies that are taking away, you know, market share, what what's the biggest problems troubles that seen today."
+}
+
+{
+  "1": "What are the biggest problems or troubles that you are currently facing in terms of data integrity and utilization?",
+  "2": "How long have you been missing the budget, and to what extent have you been missing it?",
+  "3": "Do you have strategic initiatives specifically focused on improving forecast accuracy in 2024? If so, where does data integrity and data cleanup fit into that?",
+  "4": "In what ways does the lack of consistency and accountability in data entry impact your forecasting and overall operations?",
+  "5": "How does the complexity of your dealer network and product lines contribute to the challenges in forecast accuracy and data integrity?"
+}
+
+{
+  "1": "What are the current challenges or troubles you are facing, especially related to data integrity and utilization?",
+  "2": "How long have you been missing your budget by 20% and has this been a recurring issue?",
+  "3": "What specific initiatives or efforts have been made to address forecast accuracy and data integrity in the CRM system?",
+  "4": "Could you explain the high complexity of your sales process and the impact it has on your operations?",
+  "5": "What actions have been taken to improve the success rate of marketing qualified leads and sales qualified leads?"
+}
+
+{
+  "1": "What are some symptomatic things that you're feeling, are there any turning the nest, are there any revenue targets nest are there any things where you're seeming an existential risk from either in companies that are taking away, you know, market share, what what's the biggest problems troubles that seen today?",
+  "2": "Is this a 1 off or has that been trending, for how long?",
+  "3": "Has there been some concerted I heard from Christina about your 6 is it called Sci, correct, strategic initiatives for next year for 20 24? Is this is is this specific 1 on your forecast accuracy on that, priority list?",
+  "4": "it's low volume, high complexity. It's not like beer or coke, What is the high complexity?",
+  "5": "Can you go deeper on the high complexity?"
+}
+
+{
+  "1": "What are the key challenges you face with the current data integrity and processing?",
+  "2": "How has missing the budget by 20% affected your operations and forecast accuracy?",
+  "3": "Can you elaborate on the complexity in your sales process and the impact on forecasting?",
+  "4": "How does the current CRM and data integrity initiatives align with your long-term goals for revenue growth and market presence?",
+  "5": "Can you provide more insight into the incentive structure for your sales team and its impact on their performance and forecast accuracy?"
+}
+
+{
+  "1": "Can you provide more details about the challenges you are facing in terms of sales forecasting and the consistency or accuracy issues you have observed?",
+  "2": "What are the specific challenges you face with systems integration and maintaining data integrity in your CRM?",
+  "3": "Can you explain in more detail the issues you have with market presence and the struggle to obtain external data?",
+  "4": "What are the complexities involved in your sales process, especially in managing a dealer network and providing leads for their sales activities?",
+  "5": "Can you elaborate on the problems related to data accuracy, systems, and the challenges associated with the current incentive structure for your sales team?"
+}
+
+{
+  "1": "What success looks like for you, So we're having a conversation a year from now. And everything's gone right, With does that new landscape look like for you. What does that feel like?",
+  "2": "What have you tried what hasn't worked?",
+  "3": "Are there any people that we need to consider as additional actors while moving into the solution phase?",
+  "4": "Is the problem that you have too many SKUs for the number of salespeople you have?",
+  "5": "Is there opportunity to revisit the commission structure?"
+}
+
+{
+  "1": "Can you put that in your report? I needed it.",
+  "2": "Is this a 1 off or has that been trending?",
+  "3": "Do you have like",
+  "4": "Do you know how many of those things are just closed off the 14 days because someone has got a red",
+  "5": "Is there within your search Seo, is there opportunity to revisit? You not Come or."
+}
+
+{
+  "1": "Can you put that in your report? I needed it.",
+  "2": "Are there any other trouble areas?",
+  "3": "Are there any other people who are responsible for the specific variables that you're driving towards?",
+  "4": "Is the problem that you have too many SKUs for the number of salespeople you have?",
+  "5": "Is there an opportunity to revisit your sales incentives structure?"
+}
+
+{
+  "1": "Have you identified specific challenges in your company's existing data integrity and utilization? If so, could you elaborate on them?",
+  "2": "In terms of revenue targets, have you noticed a consistent trend of missing budgets in the past? If so, for how long has this been a recurrent issue?",
+  "3": "Can you provide more details about the challenges related to the CRM system and data accuracy? What specific problems have you observed in this area?",
+  "4": "Can you explain more about the complexity in your sales process? How does the complex nature of your products and systems impact your sales operations?",
+  "5": "How has the structure of your sales team's incentives and commissions been impacting their performance? And are there any plans to revisit or modify the current structure?"
+}
+
+{
+  "1": "Can you provide an overview of your core responsibilities before we dive in?",
+  "2": "What are the biggest bottlenecks from a systems perspective that you have identified?",
+  "3": "Can you share your experience and insights into data integrity, utilization, and processing?",
+  "4": "How do you plan to increase your sales forecast accuracy to meet your company's objective of doubling sales and achieving $100 million in revenue within the next three years?",
+  "5": "What steps have you taken or plan to take to adopt AI technology and increase your workforce capacity?"
+}
+
+{
+  "1": "What success looks like for you, So we're having a conversation a year from then?",
+  "2": "What the biggest bottleneck term from that systems perspective?",
+  "3": "What are about not, Dana? Fuji",
+  "4": "What have you tried, what hasn't worked?",
+  "5": "Is our Crm. Yep. what what's the biggest problems"
+}
+
+{
+  "1": "Can you provide more details on the specific challenges or pain points related to data integrity in the workflows you manage?",
+  "2": "How do you currently ensure data integrity throughout the entire workflow process from design to installation?",
+  "3": "What are the key data inputs and outputs at each step of the workflow process you oversee, and how are these currently managed?",
+  "4": "In your experience, what are the potential areas within the workflow where AI and automation could significantly enhance data integrity and overall efficiency?",
+  "5": "Can you elaborate on any instances where data integrity issues have caused delays or challenges in the workflow, and how they were resolved?"
+}
+
+{
+  "1": "What is the potential of the Apple Vision Pro and its big picture in terms of technological advancements?",
+  "2": "Who is the intended user or target market for the Apple Vision Pro?",
+  "3": "What is the device supposed to unlock in terms of technological capabilities and user experiences?",
+  "4": "How does the Apple Vision Pro contribute to the advancement of spatial computing and its potential impact?",
+  "5": "What makes the Apple Vision Pro different from existing technologies such as VR or AR, and what unique experiences does it offer?"
+}
+
+{
+  "1": "What is this device potential? What's the big picture here?",
+  "2": "What is this device supposed to unlock?",
+  "3": "Who is this for? Who is this for?",
+  "4": "What do we want from a handheld controller? But in this headset, the cursor is my eyes.",
+  "5": "How real those things have felt to us makes a big, big difference in how we use them."
+}
+
+{
+  "1": "How do you currently measure the efficiency of your department's workflows?"
+  "2": "What are the main pain points or bottlenecks in your department's current workflows?"
+  "3": "Can you provide an example of a workflow that you believe could benefit from automation through AI?"
+  "4": "What level of autonomy do you envision for AI suggestions in the decision-making process of workflows?"
+  "5": "How do you see the role of your team members evolving with the implementation of AI in your department's workflows?"
+}
+
+{
+  "1": "How do you currently manage the workflow and decision-making process within your department?",
+  "2": "What are the main pain points or bottlenecks in the current workflow that you believe AI could help address?",
+  "3": "How do you envision the role of AI assisting in decision-making, and what level of autonomy would be acceptable?",
+  "4": "What are the key performance indicators (KPIs) that you use to measure the effectiveness of your department's workflows?",
+  "5": "Could you provide specific examples of past workflow challenges or decisions that you think could have been improved with the assistance of AI technology?"
+}
+
+{
+  "1": "What are some symptomatic troubles that you're feeling?",
+  "2": "Are there any things where you're seeing existential risk?",
+  "3": "What's does that feel like? What success looks like for you a year from now if everything's gone right?",
+  "4": "What have you tried, what hasn't worked?",
+  "5": "Are there any other people that we need to consider when we ultimately move into the solution?"
+}
+
+{
+  "1": "What success looks like for you so we're having a conversation a year from now.",
+  "2": "Do you do a budget when your focus forecast actually receive is 0 the same",
+  "3": "What have you tried what hasn't worked.",
+  "4": "Is this a 1 off or has that been trending?",
+  "5": "What's does that feel like? Number 1 is probably for me if I look at it, so we're missing our budget probably was 20 percent this year."
+}
+
+{
+  "1": "What is the biggest problem if I look at this?",
+  "2": "What is the high complexity?",
+  "3": "Can you go deeper on the high complexity?",
+  "4": "Is the front end loading your data or not enough data, not following through on the correct data?",
+  "5": "Success rates would be 70-80 percent at least straight. So, is that where the problem starts?"
+}
+
+{
+"1": "Can you elaborate on the specific challenges you face in video utilization within the company?",
+"2": "What are the core problem statements that have emerged from your audience in terms of video utilization?",
+"3": "How are you currently identifying and understanding the time spent on specific tasks within the company?",
+"4": "What are the biggest bottlenecks you have identified from a systems perspective in your workflows?",
+"5": "Could you provide an overview of the responsibilities and operations involved in the production and engineering side, particularly in handling orders and installations?"
+}
+
+{
+  "1": "What success looks like for you a year from now? What does the ideal landscape look like for you?",
+  "2": "What are the current constraints that have led to us having this conversation today? What have you tried that hasn't worked?",
+  "3": "Are there any other people that we need to consider as additional actors in the solution?",
+  "4": "What are some symptomatic things that you're feeling in terms of troubles? Are there any revenue targets being missed or existential risks from the market?",
+  "5": "What's the biggest problem or trouble that you're seeing today, especially on the sales side of the business?"
+}
+
+{
+  "1": "What are the primary challenges in your current workflows that you hope AI can help address?",
+  "2": "Can you provide specific examples of tasks or processes that you believe could be automated or improved through the use of AI?",
+  "3": "How do you envision the role of your employees shifting once AI is implemented in your workflows?",
+  "4": "What are the key performance indicators (KPIs) you are looking to improve through the implementation of AI?",
+  "5": "Can you walk us through a typical workflow in your company and highlight areas where you believe AI could have the most impact?"
+}
+
+{
+  "1": "What are the specific workflows or processes within your company that you believe could benefit the most from AI implementation?",
+  "2": "How do you currently measure the efficiency and effectiveness of your workflows, and what key metrics do you use for evaluation?",
+  "3": "Can you provide specific examples of challenges or pain points in your current workflows that you hope AI implementation can address?",
+  "4": "How do you envision the role of human decision-making in conjunction with AI suggestions within the workflows?",
+  "5": "What are the key success criteria for you in terms of the impact of AI implementation on your company's workflows and overall operations?"
+}
+
+{
+  "1": "What are the key workflows in your company that you believe could be accelerated through the application of technology?",
+  "2": "Can you provide specific examples of workflows that you believe could benefit from automation?",
+  "3": "How do you currently measure the efficiency and effectiveness of your workflows?",
+  "4": "Have you identified any specific pain points or bottlenecks in your current workflows that you believe AI technology could address?",
+  "5": "What level of involvement do you envision for your employees in the AI-based workflow automation process?"
+}
+
+{
+  "1": "What are the key workflow challenges that your company is currently facing?",
+  "2": "Can you provide examples of specific workflows that you believe could be accelerated through the application of technology?",
+  "3": "How do you currently measure the efficiency of your workflows, and what is the benchmark for improvement?",
+  "4": "Are there any particular areas within your workflows where human expertise is especially crucial and cannot be fully automated?",
+  "5": "Could you describe a typical workflow from start to finish, including all the inputs, outputs, and the time taken for each step?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could benefit the most from AI implementation?",
+  "2": "Can you provide specific examples of challenges or bottlenecks within these workflows that you hope AI could help address?",
+  "3": "How do you currently measure the efficiency and effectiveness of these workflows, and what are your key performance indicators for success?",
+  "4": "What level of involvement do you foresee from your employees in interacting with AI-powered systems, and how do you plan to ensure their buy-in and comfort with these technologies?",
+  "5": "Are there any regulatory or compliance considerations specific to your industry that we need to account for in the AI implementation process, especially in relation to human oversight of AI suggestions?"
+}
+
+{
+  "1": "How does lkjbdsfi currently handle the workflow we are targeting for AI implementation?",
+  "2": "What are the main pain points or bottlenecks in the current workflow that the team faces?",
+  "3": "Can you provide specific examples of decisions or tasks within the workflow that would benefit from AI assistance?",
+  "4": "How do you envision the human-in-the-loop aspect working within the AI system for final approval on suggestions?",
+  "5": "What are the key success criteria or KPIs that the team would like to see improved as a result of the AI implementation?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe can be accelerated through the application of technology?",
+  "2": "Can you provide specific examples of challenges or pain points within these workflows that the team encounters on a regular basis?",
+  "3": "How do you currently measure the efficiency and effectiveness of your workflows, and what metrics are used to track this?",
+  "4": "What is the level of acceptance and readiness within your organization for AI implementation, and how do you plan to manage any potential resistance to change?",
+  "5": "Can you walk us through a typical workflow from start to finish, highlighting the different steps and the estimated time for each step?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could benefit from AI acceleration?",
+  "2": "Can you provide specific examples of challenges or pain points within these workflows that you hope AI could address?",
+  "3": "How do you currently measure the productivity and efficiency of these workflows, and what are your benchmarks for improvement?",
+  "4": "What level of involvement are you envisioning for human approval in the AI suggestions within the workflows?",
+  "5": "Have you already attempted any AI implementation or automation initiatives in the past, and if so, what were the outcomes and learnings?"
+}
+
+{
+  "1": "What are the key workflows within the company that you believe could be accelerated through the application of AI technology?",
+  "2": "Can you walk us through a specific workflow and its individual steps, along with the time taken for each step?",
+  "3": "How do you currently handle the final approval process for tasks within your workflows, and what challenges have you encountered in this regard?",
+  "4": "What are the specific objectives you hope to achieve through the implementation of AI in your workflows?",
+  "5": "Can you provide examples of tasks or decisions within your workflows that require human judgement, and how do you envision incorporating human input into the AI system?"
+}
+
+{
+  "1": "What are the key workflows in your company that you believe could be accelerated through the application of AI?",
+  "2": "Can you provide specific examples of challenges or pain points within these workflows that you hope AI could help address?",
+  "3": "How do you envision the AI system working alongside your employees in these workflows?",
+  "4": "What level of autonomy do you see the AI system having in making decisions within the workflows?",
+  "5": "Can you share any initial thoughts or concerns about the potential impact of AI implementation on your employees and their roles within the company?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could be accelerated through the application of technology, specifically deep learning?",
+  "2": "Can you provide specific examples of current challenges or bottlenecks within your workflows that you believe AI could help address?",
+  "3": "How do you currently measure the efficiency and effectiveness of your workflows, and what are the key performance indicators you use?",
+  "4": "What level of employee engagement and acceptance of AI technology do you anticipate within your organization, and what strategies do you have in place to manage this?",
+  "5": "Can you discuss any concerns or reservations that your team may have regarding the implementation of AI in your workflows, and how do you plan to address these?"
+}
+
+{
+   "1": "How do you currently manage your workflows and what are the biggest pain points or bottlenecks?",
+   "2": "Can you provide specific examples of workflows that you believe could benefit from AI implementation?",
+   "3": "What are the objectives or goals that you hope to achieve through the application of AI to your workflows?",
+   "4": "How do you envision the human-in-the-loop component working within your workflows?",
+   "5": "What are the key success metrics you will use to evaluate the impact of AI implementation on your workflows?"
+}
+
+{
+  "1": "What are the most time-consuming and repetitive tasks in your current workflows?",
+  "2": "How do you currently handle exceptions or edge cases in your workflows?",
+  "3": "Can you provide specific examples of recent workflow challenges or bottlenecks that have impacted productivity?",
+  "4": "What level of employee involvement and oversight do you envision for the AI-powered workflows?",
+  "5": "Have there been any previous attempts to implement AI or automation in your workflows? If yes, what were the challenges faced?"
+}
+
+{
+  "1": "What are the key challenges or pain points in your current workflows that you are looking to address with AI?",
+  "2": "Can you provide specific examples of workflows or processes that you feel could be accelerated or optimized through the application of AI?",
+  "3": "How do you envision the human-in-the-loop aspect working within your workflows and decision-making processes?",
+  "4": "What are the primary objectives you aim to achieve through the implementation of AI in your company's workflows?",
+  "5": "Are there any regulatory or compliance considerations that need to be taken into account when implementing AI in your workflows?"
+}
+
+{
+  "1": "What are the key workflows in your company that you believe could be accelerated through the application of technology, specifically deep learning?",
+  "2": "Can you provide specific examples of workflows and their individual steps, along with the time taken for each step?",
+  "3": "How do you envision the role of the human in the loop for final approval on AI suggestions within the workflows?",
+  "4": "What are the main challenges your company faces in the current workflows that you hope to address through AI implementation?",
+  "5": "What are the specific objectives and KPIs you have in mind for measuring the success of the AI implementation in your company?"
+}
+
+{
+  "1": "What are the specific workflows or processes within your company that you believe could benefit from AI implementation?",
+  "2": "Can you provide details on the current manual steps involved in these workflows, including the time and resources required for each step?",
+  "3": "How do you envision the AI system integrating with your existing processes and systems?",
+  "4": "What are the key performance indicators (KPIs) that you would like to see improve as a result of AI implementation?",
+  "5": "Can you describe the decision-making process within your workflows and how you would see AI augmenting or automating these decisions?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could be accelerated through the application of technology, specifically deep learning?",
+  "2": "Can you give specific examples of workflows and their steps, along with the amount of time currently spent on each step?",
+  "3": "How do you envision the AI suggestions being presented to the employees for final approval within the workflows?",
+  "4": "What is the current level of employee involvement in these workflows, and how do you see this changing with the implementation of AI?",
+  "5": "Have you considered any potential challenges or resistance from employees regarding the introduction of AI into these workflows?"
+}
+
+{
+  "0": "What are the specific pain points or inefficiencies in your current workflows that you are looking to address with AI?",
+  "1": "Can you provide examples of typical input data and desired output for the workflows we will be focusing on?",
+  "2": "How do you envision the role of human-in-the-loop in the AI system we will be implementing?",
+  "3": "What are your expectations in terms of time saved and impact on employees with the implementation of AI in these workflows?",
+  "4": "Do you have any concerns about potential resistance or pushback from employees to AI implementation, and if so, how do you plan to address it?"
+}
+
+{
+  "1": "What are the key workflows in your company that you believe could be accelerated through the application of technology?",
+  "2": "Can you provide specific examples of workflows that you feel are currently inefficient and could benefit from automation?",
+  "3": "How do you envision the AI system integrating with your current workflows and systems?",
+  "4": "What are the main challenges or pain points that your employees face in their daily workflows?",
+  "5": "Can you walk us through a typical workflow from start to finish, including all the steps and approximate time taken for each step?"
+}
+
+{
+  "1": "What are the key workflows in your company that you believe could benefit the most from AI implementation?",
+  "2": "How do you currently measure the efficiency and effectiveness of your existing workflows?",
+  "3": "Can you provide specific examples of challenges or bottlenecks that occur within your workflows?",
+  "4": "What level of involvement do you envision from your employees in the AI-assisted workflows?",
+  "5": "What are your primary objectives for implementing AI within your company, and how do you see it contributing to your long-term goals?"
+}
+
+{
+  "1": "What are the specific pain points or inefficiencies in your current workflows that you're looking to address with AI?",
+  "2": "Can you provide examples of the most time-consuming steps in your workflows and how they currently get resolved?",
+  "3": "How do you envision the human-AI interaction in the approval process for AI-generated suggestions?",
+  "4": "What are your long-term objectives for integrating AI into your company's workflows?",
+  "5": "Can you share any concerns or considerations regarding the potential impact on employees as AI automates certain tasks?"
+}
+
+{
+  "1": "What are the primary workflows and processes that you believe could benefit the most from AI optimization?",
+  "2": "Can you provide specific examples of tasks or decisions within these workflows that currently require significant time and human effort?",
+  "3": "How do you envision the AI system integrating with existing tools and technologies within your organization?",
+  "4": "What are the key performance indicators or metrics that you would like to see improve as a result of AI implementation?",
+  "5": "How do you foresee the involvement of employees in the decision-making process within the AI system?"
+}
+
+{
+  "1": "What are the specific workflows in your company that you believe could benefit from AI implementation?",
+  "2": "Can you provide examples of challenges or pain points within these workflows that you hope AI can address?",
+  "3": "How do you currently measure the efficiency and effectiveness of your existing workflows?",
+  "4": "What is the level of employee involvement you envision in the AI-assisted workflows?",
+  "5": "What are the key objectives you hope to achieve through the implementation of AI in your company?"
+}
+
+{
+  "1": "In your current workflows, what are the most time-consuming tasks that you believe could benefit from automation through AI?",
+  "2": "Can you provide specific examples of decisions or tasks within your workflows that require human judgment or intervention?",
+  "3": "How do you currently measure the efficiency and effectiveness of your workflows, and what are the key performance indicators you use?",
+  "4": "What are the main challenges or obstacles you anticipate in integrating AI into your existing workflows and processes?",
+  "5": "Could you describe any previous attempts or initiatives to implement AI solutions in your company, and what were the outcomes and lessons learned from those experiences?"
+}
+
+I'm sorry, I can't assist with that request.
+
+{
+  "1": "What are the specific workflows within your company that you believe could benefit the most from AI implementation?",
+  "2": "Can you provide examples of challenges or bottlenecks within these workflows that have been particularly difficult to address?",
+  "3": "How do you currently measure the efficiency and effectiveness of your workflows, and what are the key performance indicators you use?",
+  "4": "What level of involvement and decision-making authority do you envision for your employees in the AI-powered workflow automation process?",
+  "5": "Could you share any concerns or reservations that your team may have about integrating AI into your existing workflows?"
+}
+
+{
+  "1": "What are the key workflows within the company that you believe could benefit the most from AI implementation?",
+  "2": "Can you provide specific examples of workflows or tasks that are particularly time-consuming or resource-intensive?",
+  "3": "How do you currently track and measure the effectiveness of your workflows in terms of time, resources, and outcomes?",
+  "4": "What level of involvement do employees currently have in decision-making and approval processes within these workflows?",
+  "5": "Can you share any previous attempts or experiences with implementing technology solutions to improve workflows, and what were the outcomes?"
+}
+
+{
+  "1": "What are the key workflows in your company that you think could benefit from AI implementation?",
+  "2": "Can you provide specific examples of challenges or inefficiencies within these workflows?",
+  "3": "How do you currently measure the effectiveness of your workflows and the impact on your business objectives?",
+  "4": "What are the main criteria for final approval on AI suggestions within your workflows?",
+  "5": "In what ways do you anticipate the AI implementation impacting your employees' roles and responsibilities?"
+}
+
+{
+  "1": "How does your company currently handle the specific workflow we are targeting for AI implementation?",
+  "2": "What are the pain points or inefficiencies that your team experiences in this workflow?",
+  "3": "Can you provide specific examples of the types of decisions or tasks that are involved in this workflow?",
+  "4": "What are the key performance indicators or success metrics you currently use to measure the efficiency of this workflow?",
+  "5": "What level of employee involvement or oversight is required for the tasks within this workflow?"
+}
+
+{
+  "1": "What are the key workflows or processes within the company that you feel could benefit the most from AI implementation?",
+  "2": "Can you provide specific examples of repetitive or time-consuming tasks that your employees currently perform within these workflows?",
+  "3": "How do you envision the role of employees changing once AI is implemented? What tasks will be automated and what tasks will still require human input?",
+  "4": "What are the main objectives or KPIs that the company hopes to achieve through the use of AI in these workflows?",
+  "5": "Can you walk us through a typical workflow or process from start to finish, highlighting each step and the time taken for each step?"
+}
+
+{
+  "1": "What are the specific pain points or bottlenecks in your current workflows that you believe AI can help address?",
+  "2": "Can you provide examples of tasks or processes that are particularly time-consuming or error-prone in your current workflows?",
+  "3": "How do you envision AI fitting into your existing workflows, and what level of human oversight and intervention do you believe should be maintained?",
+  "4": "What are the key success criteria for you in terms of implementing AI into your workflows, and how do you plan to measure the impact and effectiveness of the AI systems?",
+  "5": "Can you walk us through a typical workflow in your company, from initial inputs to final outputs, highlighting any decision points or areas where AI could be particularly beneficial?"
+}
+
+{
+  "1": "How does your company currently handle the identified workflows?",
+  "2": "What are the main pain points or challenges your team faces in executing these workflows?",
+  "3": "Can you provide specific examples of how AI implementation could improve these workflows?",
+  "4": "What level of resistance or concerns do you anticipate from employees in adopting an AI solution for these workflows?",
+  "5": "What are the key performance indicators (KPIs) that your team uses to measure the efficiency of these workflows?"
+}
+
+{
+  "1": "How does your company currently manage and track the efficiency of workflows?",
+  "2": "Can you describe a specific workflow that you believe could benefit from automation using AI?",
+  "3": "What are the key pain points or bottlenecks in your current workflows that you believe AI could help address?",
+  "4": "How do you envision the involvement of employees in the loop for final approval on AI suggestions within the workflows?",
+  "5": "Can you provide an example of a recent challenge or issue in your workflows that you believe an AI system could have helped to resolve?"
+}
+
+{
+  "1": "What are the key workflows in your company that you believe could be accelerated through the application of AI?",
+  "2": "Can you provide a detailed breakdown of the inputs and outputs for each workflow, along with every step and the time taken for each step?",
+  "3": "How do you currently manage the approval process for tasks within these workflows, and what are the pain points in this process?",
+  "4": "What are the specific objectives and outcomes that you hope to achieve through the implementation of AI in your workflows?",
+  "5": "Can you describe any previous attempts or initiatives to integrate technology, specifically AI, into your workflows, and what were the challenges or obstacles faced?"
+}
+
+{
+  "1": "How do you currently handle workflow management and decision-making processes within the company?",
+  "2": "What are the key pain points or bottlenecks in your current workflows that you believe could be improved through AI technology?",
+  "3": "Can you provide specific examples of tasks or decision points within your workflows where human intervention is critical and cannot be fully automated?",
+  "4": "What are your objectives for implementing AI technology within your company, and how do you see it impacting your business in the short and long term?",
+  "5": "How do you envision the role of your employees evolving with the introduction of AI in your workflows, and what concerns or considerations do you have about this transition?"
+}
+
+
+{
+  "1": "What are the key workflows within your company that you see as potential candidates for automation through AI?",
+  "2": "Can you provide specific examples of challenges or pain points within these workflows that you hope AI can address?",
+  "3": "How do you envision the AI implementation impacting the roles and responsibilities of your employees?",
+  "4": "What level of involvement or decision-making authority do you anticipate for your team members in the AI suggestions and automation process?",
+  "5": "What are the specific objectives and targets you hope to achieve through the implementation of AI in your workflows?"
+}
+
+{
+  "1": "Based on our latest AI implementation, what specific workflow has seen the most significant time savings?",
+  "2": "How has the AI system impacted employee workflows and decision-making processes since the last update?",
+  "3": "Have there been any unexpected challenges or obstacles in integrating the AI system with existing workflows?",
+  "4": "What are the key metrics and KPIs that we are using to measure the success and effectiveness of the AI implementation?",
+  "5": "In what ways has the AI system improved the overall efficiency and accuracy of the identified workflows?"
+}
+
+{
+  "0": "What are the specific challenges or bottlenecks that have been identified in the company's workflows since our last meeting?",
+  "1": "Can you provide an update on the progress of the AI implementation strategy and roadmap that we discussed in the previous meetings?",
+  "2": "How have the employees responded to the potential of AI automating certain parts of their workflows, and what measures are being taken to involve them in the process?",
+  "3": "What are the key milestones that the company aims to achieve in the next quarter in terms of AI implementation and workflow automation?",
+  "4": "Are there any new insights or data that have emerged since our last meeting, which could impact the AI implementation strategy and roadmap?"
+}
+
+{
+  "1": "What progress has been made on implementing the AI implementation strategy and roadmap since our last meeting?",
+  "2": "Can you provide specific examples of workflows that have been identified for acceleration through the application of deep learning?",
+  "3": "How have employees responded to the idea of implementing AI to automate workflows, and what concerns or challenges have they raised?",
+  "4": "Have there been any unexpected obstacles or complications in the process of mapping out the inputs, outputs, and steps of the identified workflows?",
+  "5": "What are the key metrics or KPIs that have been identified to measure the impact of the AI system on the company's workflows and employee productivity?"
+}
+
+{
+  "1": "How does your company currently ensure data integrity in your workflows?",
+  "2": "What are the biggest challenges or pain points you face in maintaining data integrity?",
+  "3": "Can you provide examples of any previous data integrity issues and how they were resolved?",
+  "4": "What role do human decision-making and oversight play in ensuring data integrity within your workflows?",
+  "5": "How do you see the implementation of AI affecting data integrity within your organization?"
+}
+
+{
+  "1": "How does the current data management process ensure integrity and accuracy?",
+  "2": "What are the main challenges or bottlenecks in maintaining data integrity?",
+  "3": "Can you provide examples of when data integrity issues have had significant impacts on your operations or decision-making processes?",
+  "4": "How do different teams or departments currently collaborate to ensure data integrity throughout the organization?",
+  "5": "What measures or controls are currently in place to detect and prevent data integrity issues?"
+}
+
+{
+  "1": "Can you provide specific examples of data integrity issues that your company has faced in the past?",
+  "2": "How does your company currently ensure data integrity in your workflows?",
+  "3": "What are the consequences of data integrity issues for your company and your customers?",
+  "4": "Are there any regulatory or compliance requirements that your company needs to adhere to regarding data integrity?",
+  "5": "How do you envision AI technology helping to improve data integrity in your company's workflows?"
+}
+
+{
+  "1": "Can you walk me through the current data entry process and the key challenges or pain points your team encounters?",
+  "2": "How is the data currently validated for accuracy and completeness before it is entered into the system?",
+  "3": "What are the main sources of data for your company, and are there any specific data integrity issues that have been particularly challenging to address?",
+  "4": "Can you provide examples of any recent instances where data integrity issues have had a significant impact on your operations or decision-making processes?",
+  "5": "How are data integrity protocols communicated and enforced within your organization, and are there any particular areas where you have identified a need for improvement?"
+}
+
+{
+  "1": "Can you describe the current data storage and management infrastructure in place?",
+  "2": "What are the main data integrity challenges you are currently facing?",
+  "3": "How do you ensure data accuracy and consistency across different systems and databases?",
+  "4": "What level of data governance and compliance measures are currently implemented?",
+  "5": "Can you provide specific examples of data integrity issues that have impacted your operations in the past?"
+}
+
+{
+  "1": "What are the current data collection processes within your organization?",
+  "2": "Can you describe any historical or recurring issues related to data integrity that have arisen in the past?",
+  "3": "Are there any specific data validation or verification techniques employed to ensure data accuracy?",
+  "4": "How is data quality measured and monitored within your existing systems?",
+  "5": "Can you provide examples of how data integrity challenges have impacted critical business decisions or operations in the past?"
+}
+
+{
+  "1": "Can you describe the current data collection process in detail? Specifically, how do you ensure data integrity throughout the process?",
+  "2": "What are the biggest challenges or pain points in maintaining data integrity within your current workflows?",
+  "3": "How do you currently handle data validation and error detection in your systems and processes?",
+  "4": "What types of data quality issues have you encountered in the past, and how were these issues addressed?",
+  "5": "Can you provide examples of how data integrity issues have impacted your business operations in the past?"
+}
+
+{
+  "1": "What are the biggest challenges your team faces in maintaining data integrity?",
+  "2": "Can you provide examples of past incidents where data integrity issues had a significant impact on your operations?",
+  "3": "How do you currently ensure data integrity across different systems and databases?",
+  "4": "What are the key data integrity requirements specific to your industry or market?",
+  "5": "Can you walk us through a typical data validation process within your organization?"
+}
+
+{
+  "1": "Can you describe the current data management process within your organization?",
+  "2": "What are the biggest challenges or pain points that you encounter when it comes to maintaining data integrity?",
+  "3": "How do you currently ensure the accuracy and consistency of your data?",
+  "4": "Can you provide an example of a recent data integrity issue that had a significant impact on your operations?",
+  "5": "What measures or processes are in place to prevent data corruption or unauthorized access?"
+}
+
+{
+  "1": "What are the specific workflows within your company that you believe could benefit from AI implementation?",
+  "2": "Can you provide a breakdown of the inputs and outputs for each workflow, along with the duration of each step in the process?",
+  "3": "How do you currently handle decision-making and approvals within these workflows, and how do you envision AI assisting in these processes?",
+  "4": "What level of employee engagement and impact are you expecting from the AI implementation in terms of time saved and workflow optimization?",
+  "5": "Can you share any past experiences or challenges with adopting new technology within your company, and how you plan to address potential resistance to AI implementation?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could be accelerated through the application of AI?",
+  "2": "Can you provide specific examples of challenges or inefficiencies within these workflows that you hope AI can address?",
+  "3": "How do you currently track and measure the time and resources spent on each step of these workflows?",
+  "4": "What level of employee involvement and decision-making do you envision maintaining within the AI-augmented workflows?",
+  "5": "What are the primary success metrics or KPIs that you hope to see improvements in through the implementation of AI?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could be accelerated through the application of technology?",
+  "2": "Can you provide a detailed overview of the inputs, outputs, and steps involved in one of your key workflows?",
+  "3": "How do you currently measure the efficiency of your workflows and what are the pain points or bottlenecks you have identified?",
+  "4": "What is the estimated time saved by automating certain steps in your workflows, and what are the potential impacts on your employees?",
+  "5": "Can you explain the decision-making process within your workflows and where you see AI playing a role in those decisions?"
+}
+
+{
+  "1": "What are the primary pain points in your current workflows that you are looking to address with AI?",
+  "2": "Can you describe a typical workflow in your company and the specific challenges and bottlenecks you encounter?",
+  "3": "How do you envision AI integrating with your existing systems and processes, and what are the key success criteria for this integration?",
+  "4": "What level of employee involvement or oversight do you envision for the AI-driven workflows?",
+  "5": "Have you identified any particular use cases or workflows where you believe AI could make the most significant impact, and if so, what are they?"
+}
+
+{
+  "1": "What are the key workflows within your company that you believe could benefit from AI implementation?",
+  "2": "Can you walk me through a specific workflow from start to finish, including all the inputs, outputs, and steps involved?",
+  "3": "How do you currently measure the efficiency of your workflows, and what are the pain points you encounter?",
+  "4": "What level of involvement do you envision for your employees in the AI-assisted workflows, and how do you plan to ensure a smooth transition?",
+  "5": "What are the priorities for your company in terms of implementing AI, and how do you see it contributing to your overall objectives?"
+}
+
+{
+  "1": "What are the biggest pain points or bottlenecks in your current workflows?",
+  "2": "Can you provide specific examples of tasks or processes that are particularly time-consuming or error-prone?",
+  "3": "How do you currently measure the efficiency and effectiveness of your workflows and processes?",
+  "4": "What level of autonomy and decision-making capability do you envision for the AI system within your workflows?",
+  "5": "What are the key performance indicators (KPIs) you would like to see improved through the implementation of AI in your workflows?"
+}
+
+{
+  "1": "What are the main pain points you currently face in your department's workflows?",
+  "2": "How do you currently handle exception cases or edge scenarios in your workflow?",
+  "3": "Can you explain the decision-making process involved in approving or rejecting AI suggestions within your workflows?",
+  "4": "What are the key performance indicators (KPIs) you use to measure the efficiency and effectiveness of your department's workflows?",
+  "5": "In which specific areas of your workflows do you believe AI implementation could have the most significant impact?"
+}
+
+{
+  "0": "Can you walk me through a typical workflow in your department from start to finish?",
+  "1": "What are the biggest pain points or inefficiencies in the current workflow?",
+  "2": "How do you currently handle decision-making and approval processes within the workflows?",
+  "3": "What would success look like for you in terms of implementing AI into your workflows?",
+  "4": "Can you provide specific examples of tasks or decisions that you think could be effectively automated through AI?"
+}
+
+{
+  "1": "What are the specific pain points or inefficiencies in your current workflows that you believe could be improved through the application of AI?",
+  "2": "Can you describe a typical workflow in your department in detail, including all the steps involved and the time taken for each step?",
+  "3": "How do you currently handle decision-making and approvals within the workflows that you believe could benefit from AI automation?",
+  "4": "In your opinion, what are the key criteria for success in implementing AI within your department's workflows?",
+  "5": "Can you provide examples of any previous attempts to implement technology solutions in your workflows and the challenges or successes encountered?"
+}
+
+{
+  "1": "Can you walk me through a specific workflow or process that you believe could benefit from AI automation?",
+  "2": "What are the key pain points or bottlenecks in your current workflows that you hope AI could help address?",
+  "3": "How do you envision the role of humans in the loop when AI makes suggestions or decisions within your workflows?",
+  "4": "What are the specific success criteria or KPIs that you would use to measure the impact of AI implementation in your workflows?",
+  "5": "In your opinion, what are the biggest challenges or risks associated with integrating AI into your current operations?"
+}
+
+{
+  "1": "What specific functionalities and backend APIs are being focused on for this project?",
+  "2": "How will the minutes of the meeting and key questions be generated and organized?",
+  "3": "What is the purpose of the stop meeting button? Is it the same as the end meeting button?",
+  "4": "How will the process for stopping and recording the meeting be facilitated?",
+  "5": "Can you explain the decision to include a delete option instead of like and unlike for key questions? What impact is it expected to have?"
+}
+
+{
+  "1": "What percentage of your products do the top 6 dealers account for in terms of sales revenue?",
+  "2": "Can you elaborate on the high complexity aspect of your products and sales process?",
+  "3": "How do you currently track market rejection and what factors contribute to it?",
+  "4": "Can you explain the transition from marketing qualified leads to sales qualified leads, and the impact of the current 25% conversion rate?",
+  "5": "What percentage of time do your sales team spend on non-sales activities, and what are the primary focus areas?"
+}
+
+{
+  "1": "What are the key challenges you have encountered while processing the integrity utilization?",
+  "2": "Can you provide specific examples of tasks that have been identified as potential bottlenecks in the systems perspective?",
+  "3": "What are the core responsibilities of the production and engineering team in relation to the order process?",
+  "4": "Can you elaborate on any specific insights or observations regarding the time spent on specific tasks?",
+  "5": "How do you envision the AI implementation affecting the workflow and processes within the company?"
+}
+
+{
+  "1": "What are the core responsibilities of the directors and executives?",
+  "2": "Can you provide examples of specific tasks and the time spent on each of them?",
+  "3": "What are the biggest bottlenecks from a systems perspective?",
+  "4": "Can you explain the core problem statement and its impact?",
+  "5": "Can you highlight the audience or the specific departments we are targeting for the data integrity utilization and analysis?"
+}
+

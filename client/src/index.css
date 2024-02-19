@@ -1,0 +1,33 @@
+:root {
+  --dark-font-color: #2E3339;
+  --accent-green: #0FA47F;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: None;
+}
+
+.gray {
+  background: #9A9B9F;
+}
+
+
+.black {
+  background: black;
+}

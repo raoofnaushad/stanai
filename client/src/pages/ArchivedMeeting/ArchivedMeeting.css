@@ -1,0 +1,216 @@
+.archived-container {
+    display: flex;
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
+    overflow: auto; /* Make content scrollable if it overflows */
+    margin-bottom: 20px; /* Add some space at the bottom */
+  ;
+  }
+.archived-meeting {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    margin-left: 220px; /* Adjusted to account for the width of the sidebar + padding */
+  }
+  
+  .meeting-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-height: 20vh;
+    overflow-y: auto;
+  }
+  
+  .header-content {
+    max-width: calc(100% - 150px); /* Adjust based on the button size to prevent overflow */
+  }
+  
+  .meeting-header h1 {
+    margin-top: 0;
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .meeting-header p {
+    margin: 10px 0;
+    color: #666;
+    font-size: 16px;
+  }
+  
+  .detail-key {
+    font-weight: bold;
+    color: #444; /* Slightly darker for contrast */
+  }
+  
+  .follow-up-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    transition: background-color 0.3s;
+  }
+  
+  .follow-up-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .meeting-content {
+    max-height: 70vh; /* Adjust this value as needed */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .questions-container {
+    max-height: 100vh; /* Make the container take up the entire viewport height */
+    overflow: auto; /* Make it scrollable */
+  }
+  
+  .questions-list {
+    border-right: 1px solid #ddd;
+    padding-right: 20px;
+  }
+  
+  .questions-list .question {
+    margin-bottom: 20px;
+  }
+  
+  .questions-list .question-title {
+    margin-bottom: 10px;
+  }
+  
+  .question-answer {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f0f0f0; /* Light grey background */
+    border-radius: 4px;
+  }
+  
+  .toggle-btn {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .toggle-btn.disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .question-input {
+    margin-top: 20px;
+  }
+  
+  .question-input input {
+    padding: 10px;
+    margin-right: 10px;
+    width: calc(100% - 120px); /* Adjust based on the Enter button width */
+  }
+  
+  .question-input button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .meeting-notes {
+    max-height: 70vh; /* Adjust this value as needed */
+    overflow-y: auto; /* Makes content scrollable vertically if it overflows */
+    padding: 15px; /* Adds some padding around the content */
+    border: 1px solid #ddd; /* Optional: adds a border around the meeting notes section */
+  }
+
+  .meeting-notes pre {
+    white-space: pre-wrap; /* Allows text to wrap */
+    word-wrap: break-word; /* Ensures long words do not overflow */
+    background-color: transparent; /* Removes the default background */
+    border: none; /* Removes the default border */
+    padding: 0; /* Adjust padding as needed */
+    margin: 0; /* Adjust margin as needed */
+  }
+
+  .meeting-notes textarea {
+    width: 100%;
+    height: 100%; /* Adjust as needed */
+    margin-top: 10px;
+  }
+  
+
+  .disabled-dropdown {
+    opacity: 0.5; /* Dim the dropdown when disabled */
+  }
+
+  select {
+    margin-bottom: 10px;
+    display: block;
+  }
+
+
+  /* Base styling for both buttons */
+.meeting-notes button {
+    margin: 10px;
+    padding: 8px 16px; /* Padding inside the button */
+    font-size: 14px; /* Text size */
+    color: white; /* Text color */
+    background-color: #007bff; /* Background color */
+    border: none; /* Remove default border */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer to indicate it's clickable */
+    transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out; /* Smooth transition for background color and transform */
+    outline: none; /* Remove default focus outline */
+  }
+  
+  /* Hover and focus styles for the buttons */
+  .meeting-notes button:hover, .meeting-notes button:focus {
+    background-color: #0056b3; /* Darker shade for button background on hover/focus */
+    transform: translateY(-2px); /* Slight lift effect on hover/focus */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  /* Separate styles for 'Edit' and 'Save' buttons if needed */
+  .meeting-notes .edit-btn {
+    background-color: #9ec05f; /* Green background for 'Edit' */
+  }
+  
+  .meeting-notes .edit-btn:hover, .meeting-notes .edit-btn:focus {
+    background-color: #218838; /* Darker green on hover/focus */
+  }
+  
+  .meeting-notes .save-btn {
+    background-color: #5c8554; /* Yellow background for 'Save' */
+  }
+  
+  .meeting-notes .save-btn:hover, .meeting-notes .save-btn:focus {
+    background-color: #e0a800; /* Darker yellow on hover/focus */
+  }
+
+  .delete-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #333; /* Icon color */
+    font-size: 24px; /* Adjust size as needed */
+    padding: 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Optional: Add effects on hover */
+  .delete-btn:hover {
+    color: #666; /* Darker shade on hover */
+  }

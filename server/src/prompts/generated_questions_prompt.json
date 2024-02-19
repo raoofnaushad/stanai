@@ -1,0 +1,42 @@
+{
+    "key_notes_prompt": [
+        {
+            "role": "system",
+            "content": "About Farpoint and what we do: Farpoint is an AI consulting firm specializing in applied AI management consulting for companies in traditional industries. We understand their challenges, identify key workflows that could be accelerated through the application of technology, specifically deep learning, and create detailed reports for clients on an AI implementation strategy and roadmap. Then we build detailed ML and software architectures including the UI/UX design, frontend and backend engineering and ML engineering. In order to do this effectively we conduct interviews with clients to understand their company's workflows and challenges, mapping out all of the inputs and outputs for each workflow along with every step of the workflow and how long each step takes. The aim is to build an ML system that automates as much of the workflow as possible, estimating time saved and employees impacted. We design our systems to keep the human in the loop for final approval on AI suggestions.\n\nAbout the client: The client is MAKR and their website is https://makr.com/. This is a description of the company's business including their location, markets they operate in, target customers, products and services offered along with pricing if available, and their history and objectives. MAKR IS A DESIGN STUDIO AND PRODUCT MANUFACTURER FOUNDED BY JASON GREGORY IN 2007. The studio works across a wide range of scales and disciplines, from soft goods and leather accessories, to product design, furniture, and interior architecture. Taking an industrial approach to craft, MAKR began simply with a goal to create long-lasting designs with carefully considered details and construction techniques. By this process, products are continually refined over time \u2014 rather than in response to a market calendar or set schedule \u2014 and introduced as they reach a level of quality and utility.\n\nThis meeting: \nName: Test 1 \nTitle: Chief Marketing Officer \nDate: 2023-12-13 \nJob Description: Looking after the marketing strategies and brand value of the company. \nInterview Objective: Head of department interview"
+        },
+        {
+            "role": "user",
+            "content": "I need your help in noting down the key notes in the meeting as a single paragraph. Below, we will be providing you the transcript of every 2 mins conversation with their timestamps. Please provide a brief summary of the key points discussed in that timeframe. It can start with - 'The discussed points are: '\nthe marketing workflows at MAKR embody a strategic fusion of analytics and creativity. Commencing with a meticulous market analysis, the team identifies trends and customer preferences. Leveraging this insight, targeted digital campaigns are crafted, spanning social media, SEO, and online advertising channels. Actively integrating customer feedback refines these strategies, fostering brand loyalty. The e-commerce platform is finely tuned to ensure a seamless customer journey, while collaborations with influencers and designers amplify brand visibility. Continuous monitoring and analytics not only gauge campaign effectiveness but also enable real-time adaptability, underscoring MAKR's commitment to an agile, data-driven, and customer-centric approach in the competitive furniture industry.\nthe marketing workflows at MAKR embody a strategic fusion of analytics and creativity. Commencing with a meticulous market analysis, the team identifies trends and customer preferences. Leveraging this insight, targeted digital campaigns are crafted, spanning social media, SEO, and online advertising channels. Actively integrating customer feedback refines these strategies, fostering brand loyalty. The e-commerce platform is finely tuned to ensure a seamless customer journey, while collaborations with influencers and designers amplify brand visibility. Continuous monitoring and analytics not only gauge campaign effectiveness but also enable real-time adaptability, underscoring MAKR's commitment to an agile, data-driven, and customer-centric approach in the competitive furniture industry."
+        }
+    ],
+    "recommended_questions_prompt": [
+        {
+            "role": "system",
+            "content": "About Farpoint and what we do: Farpoint is an AI consulting firm specializing in applied AI management consulting for companies in traditional industries. We understand their challenges, identify key workflows that could be accelerated through the application of technology, specifically deep learning, and create detailed reports for clients on an AI implementation strategy and roadmap. Then we build detailed ML and software architectures including the UI/UX design, frontend and backend engineering and ML engineering. In order to do this effectively we conduct interviews with clients to understand their company's workflows and challenges, mapping out all of the inputs and outputs for each workflow along with every step of the workflow and how long each step takes. The aim is to build an ML system that automates as much of the workflow as possible, estimating time saved and employees impacted. We design our systems to keep the human in the loop for final approval on AI suggestions.\n\nAbout the client: The client is sdjfknsdf and their website is kdsjfnsdkjfn. This is a description of the company's business including their location, markets they operate in, target customers, products and services offered along with pricing if available, and their history and objectives.\n\nsdf\n\nAbout the meeting: This meeting is between Farpoint Consultant with the Client team including Attendees: asdansd Titles: sdjkfnsdf Date: 2024-02-16 Job Descriptions: sdfksdf Meeting Objective: Data Integrity Interview"
+        },
+        {
+            "role": "user",
+            "content": "I need your help in recommending the top 5 unique questions to ask in the meeting based on the meeting objectives and from the meeting transcripts which has not been answered yet. Reply with only the answers in JSON format (with index as key and question as value) and include no other commentary. The transcript of the meeting is as follows.\nImprove\nHr.\nWhat are about?\nI r name at\nif it's not in Danish court, it's in mime, then would it... By choice.\nFelt much choice what I'd say. She's She's in Hr, but not my choice. So...\nOkay.\nSo for our conversation today, we are still talking about the\ndo it integrity utilization and already because processing it with. We've\nalready had conversations with\nIs it Christine or is it is it John for John K? We've had a conversation with John. We've also had conversations with with, Christine.\nGood.\nYep\nAnd so we've already heard kind of a lot of\nthe same\nemo and just kinda symptomatic undertone.\nFully\ntry to really identify out and pull out the core problem statement and des from the audience of who we're talking to.\nSo with the directors with the executives, this is a lot more high level, and as we get more\ngranular are more grounded. We can start pulling out things like time studies and naturally understanding.\nLiterally how long people are spending on specific tasks.\nRight? What the biggest bottlenecks are from that systems perspective?\nSo I think everyone knows everyone on the call ray correct if I'm wrong.\nYep. I think you met all of us at e. Yep. I did. Yep.\nPerfect. Okay. So I think for introductions, we're pretty\ngood here. I would like to just get a, maybe, another round\nfrom Youtube, just highlighting maybe experience and what it is\nyour core responsibilities are before we dive in\nSure. I. Can you go for... Yeah. We'll go with that?\nOkay. Desktop Vp.\nOffer operate... Or, sorry, production and engineering and now the install team. So\nprimarily on the operations side once an order is released"
+        }
+    ],
+    "answered_questions_prompt": [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": ""
+        }
+    ],
+    "transcript_summary_prompt": [
+        {
+            "role": "system",
+            "content": ""
+        },
+        {
+            "role": "user",
+            "content": ""
+        }
+    ]
+}

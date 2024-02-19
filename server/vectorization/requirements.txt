@@ -1,0 +1,10 @@
+requests==2.31.0
+Flask==3.0.2
+python-dotenv==1.0.1
+psycopg2==2.9.9
+llama-index==0.9.45.post1
+docx2txt==0.8
+pypdf==4.0.1
+pgvector==0.2.5
+psycopg2-binary==2.9.9
+asyncpg==0.29.0

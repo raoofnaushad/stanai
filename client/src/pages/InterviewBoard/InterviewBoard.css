@@ -1,0 +1,548 @@
+/* Main */
+
+.main {
+  display: flex; /* Establishes a flex container */
+  align-items: flex-start; /* Aligns children of .main to the start of the cross axis */
+  justify-content: flex-start; /* Aligns children to the start of the main axis */
+  height: 100vh; /* 100% of the viewport height */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+}
+
+/* Side bar Styles */
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #334155; /* A more modern, neutral dark color */
+  width: 200px;
+  position: fixed;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+} 
+
+.sidebar h1 {
+  font-size: 22px; /* Slightly larger font size */
+  color: #ffffff; /* Bright color for the logo text */
+  text-align: center;
+  margin-bottom: 20px; /* Less space below the logo */
+  font-weight: 600; /* Heavier font weight */
+}
+
+.sidebar-top {
+  margin-top: 10px; /* Reduced top margin */
+}
+
+.sidebar button {
+  background-color: transparent; /* Removing button background */
+  color: #ffffff; /* White color text for better contrast */
+  padding: 12px 20px; /* More padding for a larger click area */
+  border: none; /* Remove borders */
+  border-radius: 4px; /* Rounded corners */
+  margin: 10px 0; /* Consistent margin around buttons */
+  width: calc(100% - 40px); /* Full width taking into account padding */
+  text-align: left; /* Align text to the left */
+  font-size: 16px; /* Larger font size for readability */
+  transition: all 0.2s; /* Smooth transition for hover effects */
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #334155; /* A more modern, neutral dark color */
+  width: 200px;
+  position: fixed;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+}
+
+.sidebar h1 {
+  font-size: 22px; /* Slightly larger font size */
+  color: #ffffff; /* Bright color for the logo text */
+  text-align: center;
+  margin-bottom: 20px; /* Less space below the logo */
+  font-weight: 600; /* Heavier font weight */
+}
+
+.sidebar-top {
+  margin-top: 10px; /* Reduced top margin */
+}
+
+.sidebar button {
+  background-color: transparent; /* Removing button background */
+  color: #ffffff; /* White color text for better contrast */
+  padding: 12px 20px; /* More padding for a larger click area */
+  border: none; /* Remove borders */
+  border-radius: 4px; /* Rounded corners */
+  margin: 10px 0; /* Consistent margin around buttons */
+  width: calc(100% - 40px); /* Full width taking into account padding */
+  text-align: left; /* Align text to the left */
+  font-size: 16px; /* Larger font size for readability */
+  transition: all 0.2s; /* Smooth transition for hover effects */
+}
+
+.sidebar button:hover {
+  background-color: #475569; /* Slightly lighter background on hover */
+  transform: translateX(5px); /* Move button to the right on hover */
+}
+
+.sidebar-bottom {
+  margin-top: auto; /* Auto margin for bottom alignment */
+}
+
+.sidebar-bottom button:last-child {
+  margin-bottom: 0; /* Remove bottom margin for the last button */
+}
+
+/* Main Content */
+
+.main-content {
+  display: flex;
+  flex-direction: column; /* Stack .info and .dashboard vertically */
+  margin-left: 200px; /* Left margin to account for the sidebar */
+  width: calc(100% - 200px); /* Width minus sidebar width */
+  background-color: #f9f9f9;
+  min-height: 100vh; /* To take full height of the viewport */
+}
+
+.info {
+  display: flex;
+  justify-content: space-between; /* Aligns children to the left and right */
+  align-items: center; /* Centers children vertically */
+  background-color: #f8f8f8; /* Example color */
+  padding: 10px;
+  border-bottom: 1px solid #eaeaea; /* Subtle border line */
+}
+
+.headings {
+  margin-top: 20px;
+  margin-bottom: 1em; /* Adjust space below the h4 */
+  font-size: 10px;
+}
+
+.company-select-dropdown {
+  margin-bottom: 10px; /* Space below the dropdown */
+  margin-right: 20px;
+  font-size: 10px;
+}
+
+/* Style the select dropdown */
+#companyDropdown {
+  padding: 5px;
+  margin-top: 5px; /* Space above the dropdown */
+  display: block;
+  font-size: 10px;
+}
+
+.dashboard {
+  flex-grow: 1; /* Ensures that .dashboard takes up the remaining space */
+  padding: 10px;
+  display: flex;
+  justify-content: space-between; /* Aligns children to the left and right */
+  flex-wrap: wrap; /* Allows children to wrap to the next line */
+  align-items: flex-start; /* Aligns children at the start of the cross axis */
+  margin: 0 10px; /* Sets the left and right margins */
+}
+
+.dashboard-board {
+  flex: 2; /* Takes up 2 parts of the available space */
+  padding: 5px; /* Spacing inside the div */
+  box-sizing: border-box; /* Padding and border are included in the width */
+  display: flex; /* Establishes a flex container */
+  flex-direction: column; /* Stacks children vertically */
+  text-align: center;
+}
+
+
+
+.details {
+  display: flex;
+  justify-content: space-between; /* This spreads the cards equally across the container */
+  padding: 10px; /* Padding inside the .details container */
+  background-color: #f5f7f9;
+  gap: 8px; /* This controls the space between cards */
+}
+
+.card {
+  flex: 1; /* This ensures the cards take up equal space within the container */
+  display: flex;
+  align-items: center; /* This vertically centers the content inside the card */
+  padding: 10px; /* Padding inside each card */
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 8px;
+  margin: 0 4px; /* This sets a minimal gap between the cards */
+}
+
+.card-details {
+  text-align: left;
+}
+
+.card-title {
+  font-size: 0.9em; /* Smaller font size for the title */
+  margin: 0;
+  color: #333333;
+}
+
+.card-count {
+  font-size: 1em; /* Larger font size for the count for emphasis */
+  margin: 0;
+  color: #666666;
+}
+
+
+.questions-and-completed {
+  flex: 1;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.questions {
+  background-color: #f5f7f9;
+  padding: 10px;
+
+}
+
+.questions-activities {
+  overflow-y: auto; /* Enable vertical scrolling */
+  max-height: 500px; /* Example max-height, adjust as needed */
+  /* max-height can be adjusted based on your layout requirements */
+}
+
+.questions-activity-title {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+}
+
+.questions-activity-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.question-and-action {
+  display: flex;
+  align-items: center;
+}
+
+.questions-content {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 10px;
+  display: block; /* Changed from flex to block */
+}
+
+.status-indicator {
+  min-width: 10px; /* Fixed width */
+  height: 16px; /* Fixed height */
+  display: inline-block;
+  margin-right: 10px;
+  background-color: orange; /* Default to orange (pending) */
+}
+
+.status-indicator.answered {
+  background-color: green; /* Green for answered */
+}
+
+.questions-comment {
+  margin: 0;
+  color: #666666;
+  line-height: 1.4;
+  font-size: 0.8rem;
+  padding: 2px;
+  flex-grow: 1; /* Allow text to take up remaining space */
+}
+
+.expand-answer-button {
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: block; /* Ensure the button is a block-level element */
+  margin-top: 5px; /* Add some space above the button */
+}
+
+
+.answer-content {
+  margin-top: 5px;
+  padding: 10px;
+  color: #333; /* Text color */
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 0.7rem; /* Reduced font size */
+  /* display: none; Initially hide the answer */
+}
+
+.answer-card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-top: 10px; /* Space between question card and answer card */
+  padding: 10px;
+}
+
+/* Modify existing .show-answer class if necessary */
+.show-answer {
+  display: block; /* Make sure the answer is shown */
+}
+
+.interview-transcripts-notes {
+  position: relative;
+}
+
+.transcripts-notes {
+  display: flex;
+  width: 100%;
+  height: 500px; /* Fixed height for the container */
+  margin-bottom: 50px;
+}
+
+.transcript-meeting-section,
+.keynotes-section {
+  flex: 1;
+  padding: 10px;
+  margin: 5px;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-y: hidden; /* Prevents scrolling on these sections */
+}
+
+.keynote-card {
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.note-text {
+  margin: 0;
+  text-align: left;
+}
+
+.transcript-meeting-section {
+  background-color: #f7f9fc;
+  color: #333;
+}
+
+.video-placeholder {
+  width: calc(100% - 40px);
+  height: 200px; /* Adjust this height as needed */
+  background-color: #ddd;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Ensure video doesn't overflow the container */
+}
+
+.video-placeholder video {
+  max-width: 100%;
+  max-height: 100%;
+  /* Maintain aspect ratio */
+  object-fit: cover; /* Cover the container, might crop if aspect ratio differs */
+}
+
+.transcript-heading {
+  margin: 0px;
+  padding: 0px;
+}
+
+.transcript-section {
+  background-color: #f7f9fc;
+  color: #333;
+  padding: 10px;
+  text-align: left;
+  font-size: 12px;
+  overflow-y: auto; /* Enables scrolling */
+  max-height: calc(100% - 220px); /* Adjust the height to fit within the container */
+}
+
+.transcript-section ul {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.keynotes-section {
+  background-color: #f9f9f9;
+  border-left: 4px solid #007bff;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-y: auto; /* Scrollable */
+}
+
+.keynotes-section h2 {
+  color: #333;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.keypoints {
+  max-height: calc(100% - 40px); /* Adjust the max height as needed */
+  overflow-y: auto; /* Scrollable */
+}
+
+.keypoints ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.keypoints ul li {
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  color: #333;
+  display: flex;
+}
+
+.note-text {
+  font-size: 11px; /* Adjusted to match the keynotes font size */
+  flex: 1; /* Allows the note text to fill the space */
+}
+
+.keypoints ul li:not(:last-child) {
+  border-bottom: 1px solid #eee;
+}
+
+.start-interview-btn {
+  display: block;
+  width: 50%;
+  padding: 10px 20px;
+  margin: 20px auto;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s;
+}
+
+.stop-interview-btn {
+  background-color: #dc3545; /* Red color for the 'Stop' state */
+  transition: background-color 0.3s; /* Smooth transition for color change */
+}
+
+
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-container {
+  position: relative; /* This makes sure that the close button is positioned relative to this container */
+
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  width: 500px; /* Adjust as needed */
+}
+
+.modal-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.modal-form input,
+.modal-form textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.modal-form button {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.modal-form button:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+
+.loading-overlay {
+  position: fixed; /* Or 'absolute' if you prefer */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999; /* Ensure it covers other content */
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border-top-color: #3498db; /* Use your brand color */
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+.close-btn {
+  position: absolute; /* Position the button absolutely within its relative parent */
+  top: 10px; /* Adjust as needed */
+  right: 10px; /* Adjust as needed */
+  padding: 0; /* Remove padding */
+  background-color: transparent; /* No background */
+  color: #dc3545; /* Example: a red X */
+  font-size: 24px; /* Make the 'X' larger */
+  border: none;
+  cursor: pointer;
+}
+
+.close-btn:hover {
+  color: #c82333; /* A slightly darker red for hover state */
+}
